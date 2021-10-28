@@ -5,36 +5,90 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 挪威01, server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 美国37, server: 38.107.226.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国24, server: 172.99.190.35, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国13, server: 172.99.190.186, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国11, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇧🇷 巴西01, server: 128.14.222.220, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇧🇷 巴西02, server: 128.14.222.215, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇧🇷 巴西03, server: 128.14.222.215, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇧🇷 巴西04, server: 128.14.222.215, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇧🇷 巴西05, server: 128.14.222.211, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇩🇪 德国02, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国01, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 美国01 2, server: 154.17.2.94, port: 18335, type: ss, cipher: chacha20-ietf-poly1305, password: pAYSRy4Y8w5aST72CzNRayDeESlOBAxZnKD0363g39xFDuCqal8IcZep3OXjFC}
+  - {name: 🇺🇸 美国03, server: 154.17.2.31, port: 18333, type: ss, cipher: chacha20-ietf-poly1305, password: ZCOTyAap8w2FFSXZy0jIen35NlCSOqlaYC3upDD6Ax93KaRe48BYg3xDRczS7E}
+  - {name: 🇺🇸 美国04, server: 154.17.2.211, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: eOaSe5CjDpKyxOu7YFB3SlaEqXNxw890R3A4RcC3DS3ATpyC2Z6D8lzYIFnZag}
+  - {name: 🇺🇸 美国05, server: 154.17.2.132, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: 93ql0Kxw8e5OlRFT3ay3YEApaXSCRCFBnIc7eCZDSYga2D8uOD6Zx3ApyzN4jS}
+  - {name: 🇺🇸 美国06, server: 154.17.2.101, port: 18337, type: ss, cipher: chacha20-ietf-poly1305, password: Bn9CDaapRelNYjAFa78wDl30FESeTI2x53pXDZq6Og3y8KzZCYS4RcuyS3OAxC}
+  - {name: 🇺🇸 美国07, server: 154.17.1.251, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: YpueYSX03OzyFgR2cRO8lAFw3pTSaDC3e3qZ9lDE4a5ySxNC6nIBKZ7A8jaDCx}
+  - {name: 🇺🇸 美国08, server: 154.17.1.245, port: 18334, type: ss, cipher: chacha20-ietf-poly1305, password: SFOS3CnR3uKZDpaOpeZC4DED2XIaACza83yx7S9cYRlT50elAgjyNwBqF36x8Y}
+  - {name: 🇺🇸 美国09, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国10, server: 145.239.1.137, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 美国24, server: 172.99.190.35, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国37, server: 38.107.226.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 挪威01, server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇭🇰 香港01, server: v1-aws-hk-14.niaoyun.online, port: 666, type: vmess, uuid: e04820e6-0f0f-3988-a2b4-ae9d49fb1773, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /niaocloud, ws-headers: {Host: v1-aws-hk-14.niaoyun.online}}
+  - {name: 🇭🇰 香港02, server: 18.163.112.47, port: 443, type: vmess, uuid: 858432a9-4a9c-4690-ef7b-c7adeb4c9f21, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /TS/recharge/tzUrl.html, ws-headers: {Host: gd.189.cn}}
+  - {name: 🇸🇬 新加坡01, server: 165.22.61.210, port: 21888, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.22.61.210}}
+  - {name: 🇮🇹 意大利01, server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇬🇧 英国01, server: 46.101.28.98, port: 12222, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 46.101.28.98}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 挪威01
-      - 🇺🇸 美国37
-      - 🇺🇸 美国24
-      - 🇺🇸 美国13
-      - 🇺🇸 美国11
+      - 🇧🇷 巴西01
+      - 🇧🇷 巴西02
+      - 🇧🇷 巴西03
+      - 🇧🇷 巴西04
+      - 🇧🇷 巴西05
       - 🇩🇪 德国02
+      - 🇺🇸 美国01
+      - 🇺🇸 美国01 2
+      - 🇺🇸 美国03
+      - 🇺🇸 美国04
+      - 🇺🇸 美国05
+      - 🇺🇸 美国06
+      - 🇺🇸 美国07
+      - 🇺🇸 美国08
+      - 🇺🇸 美国09
+      - 🇺🇸 美国10
+      - 🇺🇸 美国24
+      - 🇺🇸 美国37
+      - 挪威01
+      - 🇭🇰 香港01
+      - 🇭🇰 香港02
+      - 🇸🇬 新加坡01
+      - 🇮🇹 意大利01
+      - 🇬🇧 英国01
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 挪威01
-      - 🇺🇸 美国37
-      - 🇺🇸 美国24
-      - 🇺🇸 美国13
-      - 🇺🇸 美国11
+      - 🇧🇷 巴西01
+      - 🇧🇷 巴西02
+      - 🇧🇷 巴西03
+      - 🇧🇷 巴西04
+      - 🇧🇷 巴西05
       - 🇩🇪 德国02
+      - 🇺🇸 美国01
+      - 🇺🇸 美国01 2
+      - 🇺🇸 美国03
+      - 🇺🇸 美国04
+      - 🇺🇸 美国05
+      - 🇺🇸 美国06
+      - 🇺🇸 美国07
+      - 🇺🇸 美国08
+      - 🇺🇸 美国09
+      - 🇺🇸 美国10
+      - 🇺🇸 美国24
+      - 🇺🇸 美国37
+      - 挪威01
+      - 🇭🇰 香港01
+      - 🇭🇰 香港02
+      - 🇸🇬 新加坡01
+      - 🇮🇹 意大利01
+      - 🇬🇧 英国01
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -52,12 +106,30 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 挪威01
-      - 🇺🇸 美国37
-      - 🇺🇸 美国24
-      - 🇺🇸 美国13
-      - 🇺🇸 美国11
+      - 🇧🇷 巴西01
+      - 🇧🇷 巴西02
+      - 🇧🇷 巴西03
+      - 🇧🇷 巴西04
+      - 🇧🇷 巴西05
       - 🇩🇪 德国02
+      - 🇺🇸 美国01
+      - 🇺🇸 美国01 2
+      - 🇺🇸 美国03
+      - 🇺🇸 美国04
+      - 🇺🇸 美国05
+      - 🇺🇸 美国06
+      - 🇺🇸 美国07
+      - 🇺🇸 美国08
+      - 🇺🇸 美国09
+      - 🇺🇸 美国10
+      - 🇺🇸 美国24
+      - 🇺🇸 美国37
+      - 挪威01
+      - 🇭🇰 香港01
+      - 🇭🇰 香港02
+      - 🇸🇬 新加坡01
+      - 🇮🇹 意大利01
+      - 🇬🇧 英国01
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
