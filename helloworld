@@ -44,19 +44,19 @@ proxy-groups:
     use: 
       - all 
     url: 'http://www.gstatic.com/generate_204' 
-    interval: 60 
+    interval: 120 
   - name: 🥢 东方国家
     type: url-test
     use:
       - east
     url: 'http://www.gstatic.com/generate_204'
-    interval: 60
+    interval: 120
   - name: 🍴 西方国家
     type: url-test
     use:
       - west
     url: 'http://www.gstatic.com/generate_204'
-    interval: 60
+    interval: 120
   - name: 🐟 漏网之鱼
     type: select
     proxies:
