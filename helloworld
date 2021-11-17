@@ -69,7 +69,7 @@ proxy-providers:
     type: http 
     url: "https://hello.stgod.com/clash/proxies" 
     path: hello.stgod.com/provider.yaml 
-    interval: 1800
+    interval: 1200
     health-check: 
       enable: true 
       interval: 60 
@@ -78,7 +78,7 @@ proxy-providers:
     type: http
     url: "https://hello.stgod.com/clash/proxies?c=CN,HK,TW,JP,KR,SG"
     path: ./proxy/east.yaml
-    interval: 1800
+    interval: 1200
     health-check:
       enable: true
       interval: 60
@@ -87,7 +87,7 @@ proxy-providers:
     type: http
     url: "https://hello.stgod.com/clash/proxies?nc=CN,HK,TW,JP,KR,SG"
     path: ./proxy/west.yaml
-    interval: 1800
+    interval: 1200
     health-check:
       enable: true
       interval: 60
@@ -101,7 +101,7 @@ rule-providers:
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
-    interval: 86400
+    interval: 43200
   #iCloud 域名列表
   icloud:
     type: http
@@ -115,84 +115,84 @@ rule-providers:
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
     path: ./ruleset/apple.yaml
-    interval: 86400
+    interval: 43200
   #[慎用]Google 在中国大陆可直连的域名列表
   google:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
     path: ./ruleset/google.yaml
-    interval: 86400
+    interval: 43200
   #代理域名列表
   proxy:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
     path: ./ruleset/proxy.yaml
-    interval: 86400
+    interval: 43200
   #直连域名列表
   direct:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
     path: ./ruleset/direct.yaml
-    interval: 86400
+    interval: 43200
   #私有网络专用域名列表
   private:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
     path: ./ruleset/private.yaml
-    interval: 86400
+    interval: 43200
   #GFWList 域名列表
   gfw:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
     path: ./ruleset/gfw.yaml
-    interval: 86400
+    interval: 43200
   #GreatFire 域名列表
   greatfire:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt"
     path: ./ruleset/greatfire.yaml
-    interval: 86400
+    interval: 43200
   #非中国大陆使用的顶级域名列表 
   tld-not-cn:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
-    interval: 86400
+    interval: 843200
   #Telegram 使用的 IP 地址列表
   telegramcidr:
     type: http
     behavior: ipcidr
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
-    interval: 86400
+    interval: 43200
   #中国大陆 IP 地址列表
   cncidr:
     type: http
     behavior: ipcidr
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt"
     path: ./ruleset/cncidr.yaml
-    interval: 86400
+    interval: 43200
   #局域网 IP 及保留 IP 地址列表
   lancidr:
     type: http
     behavior: ipcidr
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt"
     path: ./ruleset/lancidr.yaml
-    interval: 86400
+    interval: 843200
   #需要直连的常见软件列表
   applications:
     type: http
     behavior: classical
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
     path: ./ruleset/applications.yaml
-    interval: 86400
+    interval: 43200
 
 ##### 规则列表 #####
 rules:
