@@ -21,6 +21,18 @@ mode: rule
 log-level: info
 external-controller: 0.0.0.0:9090
 
+#### TUN模式  ####
+dns:
+  enable: true
+  enhanced-mode: fake-ip
+  nameserver:
+    - 114.114.114.114 # 真实请求DNS，可多设置几个
+tun:
+  enable: true
+  stack: system # 或 gvisor
+  dns-hijack: # DNS劫持设置为系统DNS
+    - 1.0.0.1:53 # 请勿更改
+
 #### 节点列表 ####
 proxies: 
 
