@@ -85,7 +85,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   west:
     type: http
-    url: "https://hello.stgod.com/clash/proxies?c=CA,DE,FR,NO,RO,SE,TR,ZZ"
+    url: "https://hello.stgod.com/clash/proxies?c=DE,FR,NO,RO,SE,ZZ"
     path: ./proxy/west.yaml
     interval: 1200
     health-check:
