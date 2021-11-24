@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=DE,FR,NO,RO,SE,ZZ
+    url: https://hello.stgod.com/clash/proxies?c=DE,FR,RO,SE
     path: ./proxy/all.yaml
     interval: 1200
     health-check:
