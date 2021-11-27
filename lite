@@ -81,4 +81,4 @@ rules:
   - RULE-SET,greatfire,PROXY
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,telegramcidr,PROXY
-  - MATCH,PROXY
+  - MATCH,DIRECT
