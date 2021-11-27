@@ -44,7 +44,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=JP,KR,SG,DE,FR,NO,RO,SE,ZZ
+    url: https://hello.stgod.com/clash/proxies?c=JP,KR,SG,DE,FR,NO,RO,SE
     path: ./proxy/all.yaml
     interval: 1200
     health-check:
@@ -62,7 +62,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   west:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=DE,FR,NO,RO,SE,ZZ
+    url: https://hello.stgod.com/clash/proxies?c=DE,FR,NO,RO,SE
     path: ./proxy/west.yaml
     interval: 1200
     health-check:
