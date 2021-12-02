@@ -8,22 +8,10 @@ proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 🍴 西方国家
       - 🥢 东方国家
-      - 🖐 手动选择
-      - 🧭 全部国家
+      - 🍴 西方国家
       - DIRECT
       - REJECT
-  - name: 🖐 手动选择
-    type: select
-    use:
-      - all
-  - name: 🧭 全部国家
-    type: url-test
-    use:
-      - all
-    url: http://www.gstatic.com/generate_204
-    interval: 60
   - name: 🥢 东方国家
     type: url-test
     use:
@@ -42,18 +30,9 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
 proxy-providers:
-  all:
-    type: http
-    url: https://hello.stgod.com/clash/proxies?c=JP,KR,SG,DE,FR,NO,RO,SE
-    path: ./proxy/all.yaml
-    interval: 1200
-    health-check:
-      enable: true
-      interval: 60
-      url: http://www.gstatic.com/generate_204
   east:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=JP,KR,SG
+    url: https://hello.stgod.com/clash/proxies?c=JP,SG
     path: ./proxy/east.yaml
     interval: 1200
     health-check:
@@ -62,7 +41,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   west:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=DE,FR,NO,RO,SE
+    url: https://hello.stgod.com/clash/proxies?c=DE,RO
     path: ./proxy/west.yaml
     interval: 1200
     health-check:
@@ -111,24 +90,6 @@ rule-providers:
     behavior: domain
     url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
     path: ./ruleset/private.yaml
-    interval: 43200
-  gfw:
-    type: http
-    behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
-    path: ./ruleset/gfw.yaml
-    interval: 43200
-  greatfire:
-    type: http
-    behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt
-    path: ./ruleset/greatfire.yaml
-    interval: 43200
-  tld-not-cn:
-    type: http
-    behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt
-    path: ./ruleset/tld-not-cn.yaml
     interval: 43200
   telegramcidr:
     type: http
