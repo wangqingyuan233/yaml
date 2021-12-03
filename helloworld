@@ -5,30 +5,30 @@ log-level: info
 external-controller: 0.0.0.0:9090
 proxies: null
 proxy-groups:
-  - name: 🚀 节点选择
+  - name: PROXY
     type: select
     proxies:
-      - 🥢 东方国家
-      - 🍴 西方国家
+      - EAST
+      - WEST
       - DIRECT
       - REJECT
-  - name: 🥢 东方国家
+  - name: EAST
     type: url-test
     use:
       - east
     url: http://www.gstatic.com/generate_204
     interval: 60
-  - name: 🍴 西方国家
+  - name: WEST
     type: url-test
     use:
       - west
     url: http://www.gstatic.com/generate_204
     interval: 60
-  - name: 🐟 漏网之鱼
+  - name: FISH
     type: select
     proxies:
       - DIRECT
-      - 🚀 节点选择
+      - PROXY
 proxy-providers:
   east:
     type: http
@@ -124,11 +124,11 @@ rules:
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
   - RULE-SET,google,DIRECT
-  - RULE-SET,proxy,🚀 节点选择
+  - RULE-SET,proxy,PROXY
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
-  - RULE-SET,telegramcidr,🚀 节点选择
+  - RULE-SET,telegramcidr,PROXY
   - GEOIP,,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,🐟 漏网之鱼
+  - MATCH,FISH
