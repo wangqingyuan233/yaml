@@ -1,4 +1,6 @@
-打开https://raw.githubusercontent.com/wangqingyuan233/yaml/main/README.md以获得更好的排版体验
+打开
+https://raw.githubusercontent.com/wangqingyuan233/yaml/main/README.md
+以获得更好的阅读体验
 
 如你所见，这有“hello world”与“lite”两个文件。
 lite相较于hello world，删除了所有选项，精简了节点与规则。
