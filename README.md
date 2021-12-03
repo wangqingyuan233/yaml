@@ -1,6 +1,4 @@
-打开
-https://raw.githubusercontent.com/wangqingyuan233/yaml/main/README.md
-以获得更好的阅读体验
+打开 https://raw.githubusercontent.com/wangqingyuan233/yaml/main/README.md 以获得更好的阅读体验
 
 如你所见，这有“hello world”与“lite”两个文件。
 lite相较于hello world，删除了所有选项，精简了节点与规则。
@@ -14,7 +12,7 @@ hello world：
         REJECT：和DIRECT效果一样，为了排版好看放上去的（捂脸）。
     EAST：东方国家节点列表，日本与新加坡。自动切换节点，不可手动选择（见说明2）。
     WAST：西方国家节点列表，德国罗马尼亚。自动切换节点，不可手动选择（见说明2）。
-    FISH：鱼，意为漏网之鱼，即“不在规则列表之内的”，比如https://www.speedtest.net/和一些小网站。可以选择让它们直连（DIRECT）或走代理（PROXY）。
+    FISH：鱼，意为漏网之鱼，即“不在规则列表之内的”，比如https://www.speedtest.net/ 和一些小网站。可以选择让它们直连（DIRECT）或走代理（PROXY）。
 lite：
     PROXY：同“hello world”的“WAST”，不可选择。
 
