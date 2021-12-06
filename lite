@@ -40,12 +40,6 @@ rule-providers:
     url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
     path: ./ruleset/gfw.yaml
     interval: 86400
-  greatfire:
-    type: http
-    behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt
-    path: ./ruleset/greatfire.yaml
-    interval: 86400
   tld-not-cn:
     type: http
     behavior: domain
@@ -57,12 +51,6 @@ rule-providers:
     behavior: ipcidr
     url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
     path: ./ruleset/telegramcidr.yaml
-    interval: 86400
-  lancidr:
-    type: http
-    behavior: ipcidr
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
-    path: ./ruleset/lancidr.yaml
     interval: 86400
   applications:
     type: http
@@ -78,7 +66,5 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,tld-not-cn,PROXY
   - RULE-SET,gfw,PROXY
-  - RULE-SET,greatfire,PROXY
-  - RULE-SET,lancidr,DIRECT
   - RULE-SET,telegramcidr,PROXY
   - MATCH,DIRECT
