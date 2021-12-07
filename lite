@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: https://envoys8.top/clash/proxies?c=DE,RO&type=ss,trojan
+    url: https://free.kingfu.cf/clash/proxies?c=DE,RO&speed=8
     path: ./proxy/all.yaml
     interval: 1200
     health-check:
