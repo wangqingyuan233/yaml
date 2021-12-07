@@ -31,5 +31,5 @@ https://raw.fastgit.org/wangqingyuan233/yaml/main/helloworld
 https://raw.fastgit.org/wangqingyuan233/yaml/main/lite
 
 感谢：
-https://hello.stgod.com/
 https://github.com/Loyalsoldier/clash-rules
+提供规则列表
