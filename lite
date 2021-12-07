@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: https://free.kingfu.cf/clash/proxies?c=DE,RO&speed=8
+    url: https://hellopool.herokuapp.com/clash/proxies?c=JP&speed=32
     path: ./proxy/all.yaml
     interval: 1200
     health-check:
