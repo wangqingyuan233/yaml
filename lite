@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   all:
     type: http
-    url: https://free.zdl.im/clash/proxies?c=DE,RO
+    url: https://envoys8.top/clash/proxies?c=DE,RO&type=ss,trojan
     path: ./proxy/all.yaml
     interval: 1200
     health-check:
