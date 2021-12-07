@@ -32,7 +32,7 @@ proxy-groups:
 proxy-providers:
   east:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=JP,SG
+    url: https://hellopool.herokuapp.com/clash/proxies?c=JP&speed=32
     path: ./proxy/east.yaml
     interval: 1200
     health-check:
@@ -41,7 +41,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   west:
     type: http
-    url: https://hello.stgod.com/clash/proxies?c=DE,RO
+    url: https://hellopool.herokuapp.com/clash/proxies?c=RO&speed=32
     path: ./proxy/west.yaml
     interval: 1200
     health-check:
