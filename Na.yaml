@@ -10,7 +10,7 @@ proxy-groups:
     use:
       - test
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 120
   - name: FISH
     type: select
     proxies:
@@ -21,10 +21,10 @@ proxy-providers:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO
     path: ./proxy/test.yaml
-    interval: 86400
+    interval: 2160
     health-check:
       enable: true
-      interval: 300
+      interval: 120
       url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
