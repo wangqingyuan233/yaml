@@ -18,19 +18,10 @@ proxy-groups:
       - DIRECT
       - PROXY
 proxy-providers:
-  ro:
+  test:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=RO&type=trojan
-    path: ./proxy/ro.yaml
-    interval: 86400
-    health-check:
-      enable: true
-      interval: 300
-      url: http://www.gstatic.com/generate_204
-  de:
-    type: http
-    url: http://8.135.91.61/clash/proxies?c=DE&type=vmess
-    path: ./proxy/de.yaml
+    url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
+    path: ./proxy/test.yaml
     interval: 86400
     health-check:
       enable: true
