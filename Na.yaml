@@ -8,7 +8,8 @@ proxy-groups:
   - name: PROXY
     type: url-test
     use:
-      - test
+      - de
+      - ro
     url: http://www.gstatic.com/generate_204
     interval: 120
   - name: FISH
@@ -17,11 +18,20 @@ proxy-groups:
       - DIRECT
       - PROXY
 proxy-providers:
-  test:
+  ro:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=DE,RO
-    path: ./proxy/test.yaml
-    interval: 21600
+    url: http://8.135.91.61/clash/proxies?c=RO&type=trojan
+    path: ./proxy/ro.yaml
+    interval: 21400
+    health-check:
+      enable: true
+      interval: 120
+      url: http://www.gstatic.com/generate_204
+  de:
+    type: http
+    url: http://8.135.91.61/clash/proxies?c=DE&type=vemss
+    path: ./proxy/de.yaml
+    interval: 21400
     health-check:
       enable: true
       interval: 120
