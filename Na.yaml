@@ -21,21 +21,20 @@ proxy-providers:
   ro:
     type: http
     url: http://8.135.91.61/clash/proxies?c=RO&type=trojan
-    url: http://8.135.91.61/clash/proxies?c=DE&type=vmess
     path: ./proxy/ro.yaml
-    interval: 21400
+    interval: 86400
     health-check:
       enable: true
-      interval: 120
+      interval: 300
       url: http://www.gstatic.com/generate_204
-   de:
+  de:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE&type=vmess
-    path: ./proxy/ro.yaml
-    interval: 21400
+    path: ./proxy/de.yaml
+    interval: 86400
     health-check:
       enable: true
-      interval: 120
+      interval: 300
       url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
