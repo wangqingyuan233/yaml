@@ -8,8 +8,7 @@ proxy-groups:
   - name: PROXY
     type: url-test
     use:
-      - de
-      - ro
+      - test
     url: http://www.gstatic.com/generate_204
     interval: 120
   - name: FISH
