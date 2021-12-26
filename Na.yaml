@@ -21,7 +21,7 @@ proxy-providers:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO
     path: ./proxy/test.yaml
-    interval: 2160
+    interval: 21600
     health-check:
       enable: true
       interval: 120
