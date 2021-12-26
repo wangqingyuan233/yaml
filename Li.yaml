@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   test:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=RO&type=trojan
+    url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
     path: ./proxy/test.yaml
     interval: 86400
     health-check:
