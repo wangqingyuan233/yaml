@@ -1,3 +1,4 @@
+#I want to be Miss Wang's dog
 mixed-port: 7890
 allow-lan: true
 mode: rule
@@ -6,11 +7,24 @@ external-controller: 0.0.0.0:9090
 proxies: null
 proxy-groups:
   - name: PROXY
-    type: url-test
+    type: fallback
+    proxies:
+      - TEST
+      - BACK
+    url: http://www.gstatic.com/generate_204
+    interval: 60
+  - name: TEST
+    type: fallback
     use:
       - test
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 60
+  - name: BACK
+    type: fallback
+    use:
+      - back
+    url: http://www.gstatic.com/generate_204
+    interval: 60
   - name: FISH
     type: select
     proxies:
@@ -21,10 +35,19 @@ proxy-providers:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
     path: ./proxy/test.yaml
-    interval: 86400
+    interval: 10800
     health-check:
       enable: true
-      interval: 300
+      interval: 60
+      url: http://www.gstatic.com/generate_204
+  back:
+    type: http
+    url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16
+    path: ./proxy/back.yaml
+    interval: 10800
+    health-check:
+      enable: true
+      interval: 60
       url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
