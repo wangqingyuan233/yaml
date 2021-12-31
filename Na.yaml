@@ -9,7 +9,7 @@ proxy-groups:
   - name: PROXY
     type: fallback
     use:
-      - tast
+      - test
       - back
     url: http://www.gstatic.com/generate_204
     interval: 120
