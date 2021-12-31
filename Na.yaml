@@ -8,23 +8,11 @@ proxies: null
 proxy-groups:
   - name: PROXY
     type: fallback
-    proxies:
-      - TEST
-      - BACK
-    url: http://www.gstatic.com/generate_204
-    interval: 60
-  - name: TEST
-    type: fallback
     use:
-      - test
-    url: http://www.gstatic.com/generate_204
-    interval: 60
-  - name: BACK
-    type: fallback
-    use:
+      - tast
       - back
     url: http://www.gstatic.com/generate_204
-    interval: 60
+    interval: 120
   - name: FISH
     type: select
     proxies:
@@ -34,8 +22,8 @@ proxy-providers:
   test:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
-    path: ./proxy/test.yaml
-    interval: 10800
+    path: ./proxy/east.yaml
+    interval: 7200
     health-check:
       enable: true
       interval: 60
@@ -44,7 +32,7 @@ proxy-providers:
     type: http
     url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16
     path: ./proxy/back.yaml
-    interval: 10800
+    interval: 7200
     health-check:
       enable: true
       interval: 60
