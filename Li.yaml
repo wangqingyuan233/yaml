@@ -6,20 +6,35 @@ external-controller: 0.0.0.0:9090
 proxies: null
 proxy-groups:
   - name: PROXY
-    type: url-test
+    type: fallback
     use:
       - test
+      - back
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 120
+  - name: FISH
+    type: select
+    proxies:
+      - DIRECT
+      - PROXY
 proxy-providers:
   test:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
-    path: ./proxy/test.yaml
-    interval: 86400
+    path: ./proxy/east.yaml
+    interval: 7200
     health-check:
       enable: true
-      interval: 300
+      interval: 60
+      url: http://www.gstatic.com/generate_204
+  back:
+    type: http
+    url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16&nc=CN
+    path: ./proxy/back.yaml
+    interval: 7200
+    health-check:
+      enable: true
+      interval: 60
       url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
