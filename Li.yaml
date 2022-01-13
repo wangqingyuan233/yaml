@@ -12,11 +12,6 @@ proxy-groups:
       - back
     url: http://www.gstatic.com/generate_204
     interval: 120
-  - name: FISH
-    type: select
-    proxies:
-      - DIRECT
-      - PROXY
 proxy-providers:
   test:
     type: http
