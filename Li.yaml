@@ -24,7 +24,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   back:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=HK,JP,SG&type=vmess,trojan
+    url: http://8.135.91.61/clash/proxies?c=HK,JP,SG&type=trojan,vmess
     #url: https://free.dswang.ga/clash/proxies
     #url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16&nc=CN
     path: ./proxy/back.yaml
