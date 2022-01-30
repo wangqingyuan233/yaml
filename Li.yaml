@@ -25,8 +25,6 @@ proxy-providers:
   back:
     type: http
     url: http://8.135.91.61/clash/proxies?c=HK,JP,SG&type=vmess,trojan
-    #url: https://free.dswang.ga/clash/proxies
-    #url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16&nc=CN
     path: ./proxy/back.yaml
     interval: 7200
     health-check:
