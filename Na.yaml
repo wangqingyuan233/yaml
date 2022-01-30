@@ -22,7 +22,7 @@ proxy-providers:
   test:
     type: http
     url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
-    path: ./proxy/east.yaml
+    path: ./proxy/test.yaml
     interval: 7200
     health-check:
       enable: true
@@ -30,7 +30,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   back:
     type: http
-    url: https://free.kingfu.cf/clash/proxies?type=vmess&speed=16&nc=CN
+    url: http://8.135.91.61/clash/proxies?c=HK,JP,SG&type=vmess,trojan
     path: ./proxy/back.yaml
     interval: 7200
     health-check:
