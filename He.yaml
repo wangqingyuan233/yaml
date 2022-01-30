@@ -8,45 +8,40 @@ proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - EAST
-      - WEST
-      - DIRECT
-      - REJECT
-  - name: EAST
-    type: url-test
+      - AUTO
     use:
-      - east
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-  - name: WEST
-    type: url-test
+      - test
+      - back
+  - name: AUTO
+    type: fallback
     use:
-      - west
+      - test
+      - back
     url: http://www.gstatic.com/generate_204
-    interval: 300
+    interval: 120
   - name: FISH
     type: select
     proxies:
       - DIRECT
       - PROXY
 proxy-providers:
-  east:
+  test:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=JP&type=ss
-    path: ./proxy/east.yaml
-    interval: 86400
+    url: http://8.135.91.61/clash/proxies?c=DE,RO&type=trojan,vmess
+    path: ./proxy/test.yaml
+    interval: 7200
     health-check:
       enable: true
-      interval: 300
+      interval: 60
       url: http://www.gstatic.com/generate_204
-  west:
+  back:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=RO&type=trojan
-    path: ./proxy/west.yaml
-    interval: 86400
+    url: http://8.135.91.61/clash/proxies?c=HK,JP,SG&type=vmess,trojan
+    path: ./proxy/back.yaml
+    interval: 7200
     health-check:
       enable: true
-      interval: 300
+      interval: 60
       url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
