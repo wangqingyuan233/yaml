@@ -15,7 +15,7 @@ proxy-groups:
 proxy-providers:
   test:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=HK,US&type=trojan,vmess
+    url: http://8.135.91.61/clash/proxies?c=HK,US&type=vmess
     path: ./proxy/test.yaml
     interval: 7200
     health-check:
@@ -24,7 +24,7 @@ proxy-providers:
       url: https://www.pixiv.net/
   back:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=AU,CA,US,JP,SG&type=vmess
+    url: http://8.135.91.61/clash/proxies?c=AU,CA,US,JP,SG&type=ss
     path: ./proxy/back.yaml
     interval: 7200
     health-check:
