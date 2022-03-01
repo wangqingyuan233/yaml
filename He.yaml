@@ -9,6 +9,7 @@ proxy-groups:
     type: select
     proxies:
       - AUTO
+      - DIRECT
     use:
       - test
   - name: AUTO
