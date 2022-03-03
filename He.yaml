@@ -26,7 +26,7 @@ proxy-groups:
 proxy-providers:
   test:
     type: http
-    url: https://free.kingfu.cf/clash/proxies?type=vmess,trojan&speed=16,96&nc=CN,HK,ZZ
+    url: https://free.kingfu.cf/clash/proxies?type=vmess,trojan&speed=8,96&nc=CN,HK,ZZ
     path: ./proxy/test.yaml
     interval: 7200
     health-check:
