@@ -17,7 +17,7 @@ proxy-groups:
     use:
       - test
     url: https://www.pixiv.net/
-    interval: 300
+    interval: 150
   - name: FISH
     type: select
     proxies:
