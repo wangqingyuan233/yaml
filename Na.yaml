@@ -10,7 +10,6 @@ proxy-groups:
     type: fallback
     use:
       - test
-      - back
     url: https://www.pixiv.net/
     interval: 300
   - name: FISH
@@ -21,17 +20,8 @@ proxy-groups:
 proxy-providers:
   test:
     type: http
-    url: http://8.135.91.61/clash/proxies?c=HK,US&type=vmess
+    url: https://free.kingfu.cf/clash/proxies?type=trojan&nc=CN,HK,TW
     path: ./proxy/test.yaml
-    interval: 14400
-    health-check:
-      enable: true
-      interval: 300
-      url: https://www.pixiv.net/
-  back:
-    type: http
-    url: http://8.135.91.61/clash/proxies?c=AU,CA,US,JP,SG&type=ss
-    path: ./proxy/back.yaml
     interval: 14400
     health-check:
       enable: true
