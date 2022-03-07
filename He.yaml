@@ -11,27 +11,27 @@ proxy-groups:
       - AUTO
       - DIRECT
     use:
-      - test
+      - proxy
   - name: AUTO
-    type: url-test
+    type: fallback
     use:
-      - test
+      - proxy
     url: https://www.pixiv.net/
-    interval: 150
+    interval: 300
   - name: FISH
     type: select
     proxies:
       - DIRECT
       - PROXY
 proxy-providers:
-  test:
+  proxy:
     type: http
-    url: https://free.kingfu.cf/clash/proxies?type=vmess,trojan&speed=8,96&nc=CN,HK,ZZ
-    path: ./proxy/test.yaml
+    url: https://free.kingfu.cf/clash/proxies?type=trojan&nc=CN,HK,TW
+    path: ./proxy/trojan.yaml
     interval: 7200
     health-check:
       enable: true
-      interval: 150
+      interval: 300
       url: https://www.pixiv.net/
 rule-providers:
   reject:
