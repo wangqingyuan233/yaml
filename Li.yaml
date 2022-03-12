@@ -14,7 +14,7 @@ proxy-groups:
 proxy-providers:
   test:
     type: http
-    url: https://free.kingfu.cf/clash/proxies?type=trojan&nc=CN,HK,TW
+    url: https://free.jingfu.cf/clash/proxies?type=trojan&nc=CN,HK,TW
     path: ./proxy/test.yaml
     interval: 7200
     health-check:
