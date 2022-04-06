@@ -26,7 +26,7 @@ proxy-groups:
 proxy-providers:
   proxy:
     type: http
-    url: https://free.jingfu.cf/clash/proxies?type=trojan,vmess
+    url: https://free.jingfu.cf/clash/proxies?type=trojan,vmess&speed=1
     path: ./proxy/proxylist.yaml
     interval: 7200
     health-check:
