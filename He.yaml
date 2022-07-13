@@ -13,7 +13,7 @@ proxy-groups:
     use:
       - proxy
   - name: AUTO
-    type: fallback
+    type: url-test
     use:
       - proxy
     url: https://www.pixiv.net/
