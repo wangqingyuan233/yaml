@@ -10,7 +10,7 @@ proxy-groups:
     proxies:
       - TEST
       - BACK
-      - DIRECT
+ #     - DIRECT
     use:
       - proxy
   - name: TEST
