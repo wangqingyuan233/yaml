@@ -8,8 +8,8 @@ proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - BACK
       - TEST
+      - BACK
       - DIRECT
     use:
       - proxy
@@ -18,13 +18,13 @@ proxy-groups:
     use:
       - proxy
     url: https://www.youtube.com/
-    interval: 300
+    interval: 90
   - name: BACK
     type: fallback
     use:
       - proxy
     url: https://www.youtube.com/
-    interval: 300
+    interval: 90
   - name: FISH
     type: select
     proxies:
@@ -38,7 +38,7 @@ proxy-providers:
     interval: 7200
     health-check:
       enable: true
-      interval: 300
+      interval: 90
       url: https://www.youtube.com/
 rule-providers:
   reject:
