@@ -38,7 +38,7 @@ proxy-providers:
     health-check:
       enable: true
       interval: 90
-      url: https://www.youtube.com/
+      url: http://picaapi.picacomic.com/
 rule-providers:
   reject:
     type: http
