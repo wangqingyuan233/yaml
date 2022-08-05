@@ -8,22 +8,21 @@ proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - TEST
       - BACK
- #     - DIRECT
+      - TEST
     use:
       - proxy
-  - name: TEST
-    type: url-test
-    use:
-      - proxy
-    url: https://www.youtube.com/
-    interval: 90
   - name: BACK
     type: fallback
     use:
       - proxy
     url: https://www.youtube.com/
+    interval: 90
+  - name: TEST
+    type: url-test
+    use:
+      - proxy
+    url: https://www.pixiv.net/
     interval: 90
   - name: FISH
     type: select
@@ -39,7 +38,7 @@ proxy-providers:
     health-check:
       enable: true
       interval: 90
-      url: https://www.youtube.com/
+      url: https://www.pixiv.net/
 rule-providers:
   reject:
     type: http
