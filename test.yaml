@@ -10,6 +10,8 @@ proxy-groups:
     proxies:
       - BACK
       - TEST
+      - DIRECT
+      - REJECT
     use:
       - proxy
   - name: BACK
