@@ -24,7 +24,7 @@ proxy-groups:
     type: url-test
     use:
       - proxy
-    url: https://www.pixiv.net/
+    url: https://www.youtube.com/
     interval: 90
   - name: FISH
     type: select
@@ -39,7 +39,7 @@ proxy-providers:
     health-check:
       enable: true
       interval: 90
-      url: http://www.pixiv.net/
+      url: http://www.youtube.com/
 rule-providers:
   reject:
     type: http
