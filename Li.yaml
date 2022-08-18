@@ -6,58 +6,70 @@ external-controller: 0.0.0.0:9090
 proxies: null
 proxy-groups:
   - name: PROXY
+    type: select
+    proxies:
+      - BACK
+      - TEST
+    use:
+      - proxy
+  - name: BACK
     type: fallback
     use:
-      - test
-    url: https://www.pixiv.net/
-    interval: 300
+      - proxy
+    url: http://www.youtube.com/generate_204
+    interval: 90
+  - name: TEST
+    type: url-test
+    use:
+      - proxy
+    url: http://www.youtube.com/generate_204
+    interval: 90
 proxy-providers:
-  test:
+  proxy:
     type: http
-    url: https://free.jingfu.cf/clash/proxies?type=trojan&nc=CN,HK,TW
-    path: ./proxy/test.yaml
+    url: https://raw.fastgit.org/ssrsub/ssr/master/Clash.yml
+    path: ./proxy/ssrsub.yaml
     interval: 7200
     health-check:
       enable: true
-      interval: 300
-      url: https://www.pixiv.net/
+      interval: 90
+      url: http://www.youtube.com/generate_204
 rule-providers:
   reject:
     type: http
     behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/reject.txt"
     path: ./ruleset/reject.yaml
-    interval: 86400
   private:
     type: http
     behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/private.txt"
     path: ./ruleset/private.yaml
-    interval: 86400
-  proxy:
+  gfw:
     type: http
     behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
-    path: ./ruleset/proxy.yaml
-    interval: 86400
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/gfw.txt"
+    path: ./ruleset/gfw.yaml
+  greatfire:
+    type: http
+    behavior: domain
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/greatfire.txt"
+    path: ./ruleset/greatfire.yaml
   tld-not-cn:
     type: http
     behavior: domain
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
-    interval: 86400
   telegramcidr:
     type: http
     behavior: ipcidr
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
-    interval: 86400
   applications:
     type: http
     behavior: classical
-    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
+    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/applications.txt"
     path: ./ruleset/applications.yaml
-    interval: 86400
 rules:
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
@@ -65,6 +77,7 @@ rules:
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,tld-not-cn,PROXY
-  - RULE-SET,proxy,PROXY
+  - RULE-SET,gfw,PROXY
+  - RULE-SET,greatfire,PROXY
   - RULE-SET,telegramcidr,PROXY
   - MATCH,DIRECT
