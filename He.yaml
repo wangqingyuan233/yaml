@@ -23,7 +23,7 @@ proxy-groups:
   - name: TEST
     type: url-test
     use:
-      - proxy
+      - jingfu
     url: http://www.youtube.com/generate_204
     interval: 90
   - name: FISH
@@ -32,7 +32,7 @@ proxy-groups:
       - DIRECT
       - PROXY
 proxy-providers:
-  proxy:
+  jingfu:
     type: http
     url: https://free.jingfu.cf/clash/proxies?type=trojan,vmess&speed=12
     path: ./proxy/jingfu.yaml
