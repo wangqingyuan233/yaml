@@ -10,6 +10,8 @@ proxy-groups:
     proxies:
       - BACK
       - TEST
+      - DIRECT
+      - REJECT
     use:
       - proxy
   - name: BACK
@@ -21,15 +23,14 @@ proxy-groups:
   - name: TEST
     type: url-test
     use:
-      - proxy
+      - ssrsub
     url: http://www.youtube.com/generate_204
     interval: 90
 proxy-providers:
-  proxy:
+  ssrsub:
     type: http
     url: https://raw.fastgit.org/ssrsub/ssr/master/Clash.yml
     path: ./proxy/ssrsub.yaml
-    interval: 7200
     health-check:
       enable: true
       interval: 90
