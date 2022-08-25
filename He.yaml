@@ -13,11 +13,11 @@ proxy-groups:
       - DIRECT
       - REJECT
     use:
-      - proxy
+      - jingfu
   - name: BACK
     type: fallback
     use:
-      - proxy
+      - jingfu
     url: http://www.youtube.com/generate_204
     interval: 90
   - name: TEST
