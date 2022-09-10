@@ -1,3 +1,8 @@
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads.pinterest.com^
+||d.reddit.com^
+||ads.tiktok.com^
 ||0-000.store^
 ||0.code.cotsta.ru^
 ||0.nextyourcontent.com^
@@ -6777,6 +6782,7 @@
 ||alysson.de^
 ||alzexa.com^
 ||alzy.fr^
+||amazonaax.com^
 ||am-display.com^
 ||am-investor.ru^
 ||am-schedule.ru^
