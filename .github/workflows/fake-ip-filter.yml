@@ -26,8 +26,8 @@ jobs:
           mkdir -p publish
           cp fake-ip-filter.yaml ./publish/ 
       - name: upload yaml file
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           run: |
           cd publish || exit 1
           git init
