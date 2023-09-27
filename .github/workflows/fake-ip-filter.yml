@@ -1,7 +1,7 @@
 name: Generate fake-ip-filter of Clash
 on:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 14 * * *'
 
 jobs:
   bot:
