@@ -29,9 +29,9 @@ jobs:
         run: |
           cd publish || exit 1
           git init
-          git config --local user.name "wangqingyuan233"
-          git config --local user.email "wangqingyuan233@gmail.com"
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
           git add .
           git commit -m "Update fake-ip-filter.yaml"
-          git remote add origin "https://github.com/wangqingyuan233/yaml"
+          git remote add origin "https://github.com/wangqingyuan233/yaml.git"
           git push -u origin master
