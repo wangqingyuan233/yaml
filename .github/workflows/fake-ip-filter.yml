@@ -1,3 +1,4 @@
+
 name: Generate fake-ip-filter of Clash
 on:
   workflow_dispatch:
@@ -8,20 +9,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Generate icloud.txt file
+      - name: wget
         run: |
           wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
           wget https://raw.githubusercontent.com/wangqingyuan233/yaml/main/cf-ds.yaml
-      - name: Generate google.txt file
+      - name: Generate list file
         run: |
           awk -F / '{print "+."$2}' accelerated-domains.china.conf >> fake_filter.list
           awk '{print "+."$1}' cf-ds.yaml >> fake_filter.list
-      - name: Generate apple.txt file
+      - name: Generate yaml file
         run: |
           echo fake-ip-filter: > Generate fake-ip-filter.yaml
           awk '{print "  - '\''"$1"'\''"}' fake_filter.list >>  fake-ip-filter.yaml
-      - name: Generate private.txt file
-        uses: actions/upload-artifact@master
-        with:
-          name: fake-ip-filter.yaml
-          path: fake-ip-filter.yaml
+      - name: Move files to publish directory
+        run: |
+          mkdir -p publish
+          cp fake-ip-filter.yaml ./publish/ 
+      - name: upload yaml file
+        run: |
+          cd publish || exit 1
+          git init
+          git add .
+          git commit -m "Update fake-ip-filter.yaml"
+          git remote add origin "https://github.com/wangqingyuan233/yaml"
+          git push -u origin master
