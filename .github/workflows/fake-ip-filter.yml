@@ -1,17 +1,18 @@
 name: Generate fake-ip-filter of Clash
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '0 12 * * *'
 
 jobs:
   bot:
-    runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
+    runs-on: ubuntu-latest
     steps:
-      - name: 'wget' #1..下载DNS国内域名分流规则和cf域名
+      - name: 'wget'
         run: |
           wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf 
           wget https://raw.githubusercontent.com/wangqingyuan233/yaml/main/cf-ds.yaml
-      - name: 'ds-list' #2..把域名提取到临时list
+      - name: 'ds-list'
         run: |
           awk -F / '{print "+."$2}' accelerated-domains.china.conf >> fake_filter.list
           awk '{print "+."$1}' cf-ds.yaml >> fake_filter.list
@@ -19,7 +20,7 @@ jobs:
         run: |
           echo fake-ip-filter: > Generate fake-ip-filter.yaml
           awk '{print "  - '\''"$1"'\''"}' fake_filter.list >>  fake-ip-filter.yaml
-      - name : Upload artifact
+      - name : 'Upload artifact'
        uses: actions/upload-artifact@master
        with:
           name: fake-ip-filter.yaml
