@@ -26,8 +26,6 @@ jobs:
           mkdir -p publish
           cp fake-ip-filter.yaml ./publish/ 
       - name: upload yaml file
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
           run: |
           cd publish || exit 1
           git init
@@ -35,5 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git add .
           git commit -m "Update fake-ip-filter.yaml"
-          git remote add origin "https://github.com/wangqingyuan233/yaml.git"
-          git push -u origin master
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
