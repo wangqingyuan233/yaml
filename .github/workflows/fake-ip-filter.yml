@@ -11,28 +11,25 @@ jobs:
 
       - name: wget
         run: |
-          wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-          wget https://raw.githubusercontent.com/wangqingyuan233/yaml/main/cf-ds.yaml
+          mkdir -p temp
+          wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf -O temp/accelerated-domains.china.conf 
+          wget https://raw.githubusercontent.com/wangqingyuan233/yaml/main/cf-ds.yaml -O temp/cf-ds.yaml
       - name: Generate list file
         run: |
-          awk -F / '{print "+."$2}' accelerated-domains.china.conf >> fake_filter.list
-          awk '{print "+."$1}' cf-ds.yaml >> fake_filter.list
+          awk -F / '{print "+."$2}' temp/accelerated-domains.china.conf >> temp/fake_filter.list
+          awk '{print "+."$1}' temp/cf-ds.yaml >> temp/fake_filter.list
       - name: Generate yaml file
         run: |
           echo fake-ip-filter: > Generate fake-ip-filter.yaml
-          awk '{print "  - '\''"$1"'\''"}' fake_filter.list >>  fake-ip-filter.yaml
-      - name: Move files to publish directory
-        run: |
-          mkdir -p publish
-          cp fake-ip-filter.yaml ./publish/ 
+          awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
       - name: upload yaml file
         run: |
-          cd publish || exit 1
           git init
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
           git add .
           git commit -m "Update fake-ip-filter.yaml"
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
