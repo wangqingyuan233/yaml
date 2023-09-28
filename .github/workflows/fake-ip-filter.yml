@@ -2,14 +2,12 @@
 name: Generate fake-ip-filter of Clash
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 22 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
           fetch-depth: 0
@@ -30,7 +28,6 @@ jobs:
         run: |
           git config user.name "wangqingyuan233"
           git config user.email "wangqingyuan233@gmail.com"
-          git add -A
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
