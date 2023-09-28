@@ -24,8 +24,8 @@ jobs:
           awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
       - name: upload yaml file
         run: |
-          git config --local user.name "GitHub Action"
-          git config --local user.email "action@github.com"
+          git config --local user.name "wangqingyuan233"
+          git config --local user.email "wangqingyuan233@gmail.com"
           git add -A
           git diff-index --quiet HEAD
       - name: Push changes
