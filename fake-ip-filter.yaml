@@ -1,3 +1,4 @@
+fake-ip-filter:
   - '+.0-6.com'
   - '+.00.net'
   - '+.000.link'
