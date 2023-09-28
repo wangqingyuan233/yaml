@@ -24,6 +24,7 @@ jobs:
           awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
       - name: upload yaml file
         run: |
+          git init
           git config user.name "wangqingyuan233"
           git config user.email "wangqingyuan233@gmail.com"
           git add -A
