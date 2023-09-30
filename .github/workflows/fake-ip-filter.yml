@@ -1,4 +1,3 @@
-
 name: Generate fake-ip-filter of Clash
 on:
   workflow_dispatch:
@@ -23,12 +22,15 @@ jobs:
       - name: Generate yaml file
         run: |
           echo fake-ip-filter: > fake-ip-filter.yaml
+          echo 127.0.0.1:7874 > adg.txt
           awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
+          awk '{print "'\[\/'"$1"'\/\]211.138.30.66'"}' temp/fake_filter.list >>  adg.txt
+
       - name: upload yaml file
         run: |
           git config user.name "wangqingyuan233"
           git config user.email "wangqingyuan233@gmail.com"
-          git add fake-ip-filter.yaml
+          git add fake-ip-filter.yaml adg.txt
           git commit -a -m "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
