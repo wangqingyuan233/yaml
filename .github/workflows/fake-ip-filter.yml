@@ -17,22 +17,22 @@ jobs:
           wget https://raw.githubusercontent.com/wangqingyuan233/yaml/main/cf-ds.yaml -O temp/cf-ds.yaml
       - name: Generate temp file
         run: |
-          awk '{print "+."$1}' temp/cf-ds.yaml >> temp/fake_filter.list
-          awk -F / '{print "+."$2}' temp/accelerated-domains.china.conf >> temp/fake_filter.list
+#          awk '{print "+."$1}' temp/cf-ds.yaml >> temp/fake_filter.list
+#          awk -F / '{print "+."$2}' temp/accelerated-domains.china.conf >> temp/fake_filter.list
           awk '{print $1}' temp/cf-ds.yaml >> temp/ds.list
           awk -F / '{print $2}' temp/accelerated-domains.china.conf >> temp/ds.list
       - name: Generate file
         run: |
-          echo fake-ip-filter: > fake-ip-filter.yaml
+#          echo fake-ip-filter: > fake-ip-filter.yaml
           echo 127.0.0.1:7874 > adg.txt
-          awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
-          awk '{print "'\[\/'"$1"'\/\]211.138.30.66'"}' temp/ds.list >>  adg.txt
+#          awk '{print "  - '\''"$1"'\''"}' temp/fake_filter.list >>  fake-ip-filter.yaml
+          awk '{print "'\[\/'"$1"'\/\]211.138.30.66'"}' temp/ds.list >>  AdGuardHome-DIRECT.txt
 
-      - name: upload yaml file
+      - name: upload file
         run: |
           git config user.name "wangqingyuan233"
           git config user.email "wangqingyuan233@gmail.com"
-          git add fake-ip-filter.yaml adg.txt
+          git add AdGuardHome-DIRECT.txt
           git commit -a -m "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
