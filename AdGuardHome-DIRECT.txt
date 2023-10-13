@@ -570,7 +570,6 @@
 [/076299.com/]211.138.30.66
 [/0762uu.com/]211.138.30.66
 [/0763f.com/]211.138.30.66
-[/0763home.com/]211.138.30.66
 [/076650.com/]211.138.30.66
 [/0768.gd/]211.138.30.66
 [/0769che.com/]211.138.30.66
@@ -649,7 +648,6 @@
 [/0951job.com/]211.138.30.66
 [/09635.com/]211.138.30.66
 [/0967ll.com/]211.138.30.66
-[/096hg.com/]211.138.30.66
 [/0991dj.com/]211.138.30.66
 [/0991net.com/]211.138.30.66
 [/0992.cc/]211.138.30.66
@@ -857,7 +855,6 @@
 [/10fang.com/]211.138.30.66
 [/10gt.com/]211.138.30.66
 [/10guoying.com/]211.138.30.66
-[/10hghg.com/]211.138.30.66
 [/10huan.com/]211.138.30.66
 [/10idc.com/]211.138.30.66
 [/10isp.com/]211.138.30.66
@@ -1305,6 +1302,7 @@
 [/163cs.com/]211.138.30.66
 [/163data.net/]211.138.30.66
 [/163fen.com/]211.138.30.66
+[/163hot.net/]211.138.30.66
 [/163jiasu.com/]211.138.30.66
 [/163k.cc/]211.138.30.66
 [/163k.com/]211.138.30.66
@@ -2019,7 +2017,6 @@
 [/21spv.com/]211.138.30.66
 [/21sq.org/]211.138.30.66
 [/21tb.com/]211.138.30.66
-[/21tea.com/]211.138.30.66
 [/21tjsports.com/]211.138.30.66
 [/21tx.com/]211.138.30.66
 [/21tyn.com/]211.138.30.66
@@ -2225,7 +2222,6 @@
 [/25pp.com/]211.138.30.66
 [/25pyg.com/]211.138.30.66
 [/25un.com/]211.138.30.66
-[/25vi.com/]211.138.30.66
 [/25wy.com/]211.138.30.66
 [/25xm.com/]211.138.30.66
 [/25xt.com/]211.138.30.66
@@ -2388,12 +2384,10 @@
 [/2p.com/]211.138.30.66
 [/2pcdn.com/]211.138.30.66
 [/2q10.com/]211.138.30.66
-[/2q1q.com/]211.138.30.66
 [/2qupu.com/]211.138.30.66
 [/2r3r.com/]211.138.30.66
 [/2rich.net/]211.138.30.66
 [/2shihui.net/]211.138.30.66
-[/2shu8.cc/]211.138.30.66
 [/2sx.net/]211.138.30.66
 [/2tianxin.com/]211.138.30.66
 [/2tx.com/]211.138.30.66
@@ -2422,7 +2416,6 @@
 [/3000xs.com/]211.138.30.66
 [/3001.net/]211.138.30.66
 [/300113.com/]211.138.30.66
-[/300400.net/]211.138.30.66
 [/300624.com/]211.138.30.66
 [/300hu.com/]211.138.30.66
 [/300ppt.com/]211.138.30.66
@@ -2640,7 +2633,6 @@
 [/345k.com/]211.138.30.66
 [/3464.com/]211.138.30.66
 [/3499.co/]211.138.30.66
-[/34an.com/]211.138.30.66
 [/34job.com/]211.138.30.66
 [/34wl.com/]211.138.30.66
 [/35.com/]211.138.30.66
@@ -3137,6 +3129,7 @@
 [/3ko.com/]211.138.30.66
 [/3kongjian.com/]211.138.30.66
 [/3kr.com/]211.138.30.66
+[/3kyi.com/]211.138.30.66
 [/3laohu.com/]211.138.30.66
 [/3laz.com/]211.138.30.66
 [/3lbrand.com/]211.138.30.66
@@ -3826,7 +3819,6 @@
 [/51lucy.com/]211.138.30.66
 [/51lunwenwang.com/]211.138.30.66
 [/51luying.com/]211.138.30.66
-[/51lvh.com/]211.138.30.66
 [/51lyrc.com/]211.138.30.66
 [/51mag.com/]211.138.30.66
 [/51maiquan.com/]211.138.30.66
@@ -3982,7 +3974,6 @@
 [/51uc.com/]211.138.30.66
 [/51ukf.com/]211.138.30.66
 [/51uyi.com/]211.138.30.66
-[/51vhost.net/]211.138.30.66
 [/51vimeo.com/]211.138.30.66
 [/51vip.biz/]211.138.30.66
 [/51vs.com/]211.138.30.66
@@ -4025,6 +4016,7 @@
 [/51xinyuan.com/]211.138.30.66
 [/51xnj.com/]211.138.30.66
 [/51xpj.com/]211.138.30.66
+[/51xuanmu.com/]211.138.30.66
 [/51xuanxiao.com/]211.138.30.66
 [/51xue8.com/]211.138.30.66
 [/51xuetang.com/]211.138.30.66
@@ -5180,7 +5172,6 @@
 [/699xs.com/]211.138.30.66
 [/69cy.net/]211.138.30.66
 [/69hr.com/]211.138.30.66
-[/69jianzhi.com/]211.138.30.66
 [/69mok.com/]211.138.30.66
 [/69ps.com/]211.138.30.66
 [/69xiu.com/]211.138.30.66
@@ -5632,7 +5623,6 @@
 [/7tt3333.com/]211.138.30.66
 [/7tui.net/]211.138.30.66
 [/7usa.net/]211.138.30.66
-[/7v46.icu/]211.138.30.66
 [/7v6.net/]211.138.30.66
 [/7vd7.com/]211.138.30.66
 [/7vk.com/]211.138.30.66
@@ -5734,7 +5724,6 @@
 [/810840.com/]211.138.30.66
 [/810book.com/]211.138.30.66
 [/81265.net/]211.138.30.66
-[/813.online/]211.138.30.66
 [/81312.com/]211.138.30.66
 [/81329999.net/]211.138.30.66
 [/815.pub/]211.138.30.66
@@ -6203,6 +6192,7 @@
 [/91ceshi.com/]211.138.30.66
 [/91cha.com/]211.138.30.66
 [/91chang.com/]211.138.30.66
+[/91changxie.com/]211.138.30.66
 [/91chuxue.com/]211.138.30.66
 [/91cpm.com/]211.138.30.66
 [/91cps.com/]211.138.30.66
@@ -6312,7 +6302,6 @@
 [/91ting.net/]211.138.30.66
 [/91tingge.com/]211.138.30.66
 [/91tw.net/]211.138.30.66
-[/91ud.com/]211.138.30.66
 [/91up.com/]211.138.30.66
 [/91vpn.com/]211.138.30.66
 [/91vps.com/]211.138.30.66
@@ -7011,6 +7000,7 @@
 [/abdstem.com/]211.138.30.66
 [/abe-tech.com/]211.138.30.66
 [/abeacon.com/]211.138.30.66
+[/abesmoke.com/]211.138.30.66
 [/abiechina.com/]211.138.30.66
 [/abiestem.com/]211.138.30.66
 [/abifsey.com/]211.138.30.66
@@ -7707,6 +7697,7 @@
 [/aisee.tv/]211.138.30.66
 [/aiseeking.com/]211.138.30.66
 [/aiseminar.com/]211.138.30.66
+[/aisenseinc.com/]211.138.30.66
 [/aishangba.org/]211.138.30.66
 [/aishangyangyu.com/]211.138.30.66
 [/aishengji.com/]211.138.30.66
@@ -7809,7 +7800,6 @@
 [/aizongyi.com/]211.138.30.66
 [/aizuna.com/]211.138.30.66
 [/aizuopin.com/]211.138.30.66
-[/aj4j.icu/]211.138.30.66
 [/ajaxjs.com/]211.138.30.66
 [/ajbbkf.com/]211.138.30.66
 [/ajcass.org/]211.138.30.66
@@ -8341,7 +8331,6 @@
 [/anrayer.com/]211.138.30.66
 [/anren.org/]211.138.30.66
 [/anrenmind.com/]211.138.30.66
-[/anroif.com/]211.138.30.66
 [/anruichina.com/]211.138.30.66
 [/ansgo.com/]211.138.30.66
 [/anshuntech.ltd/]211.138.30.66
@@ -8715,7 +8704,6 @@
 [/aqee.net/]211.138.30.66
 [/aqfen.com/]211.138.30.66
 [/aqhbq.com/]211.138.30.66
-[/aqhuayu.com/]211.138.30.66
 [/aqidb.org/]211.138.30.66
 [/aqioo.com/]211.138.30.66
 [/aqisite.com/]211.138.30.66
@@ -8774,6 +8762,7 @@
 [/arfans.com/]211.138.30.66
 [/arhieason.com/]211.138.30.66
 [/arhoo.com/]211.138.30.66
+[/ariels.xyz/]211.138.30.66
 [/ariesmob.com/]211.138.30.66
 [/arinchina.com/]211.138.30.66
 [/arisastar.com/]211.138.30.66
@@ -8977,6 +8966,7 @@
 [/atmlimited.com/]211.138.30.66
 [/atmob.com/]211.138.30.66
 [/atobo.com/]211.138.30.66
+[/atomgit.com/]211.138.30.66
 [/atomhike-en.com/]211.138.30.66
 [/atomhike.com/]211.138.30.66
 [/atomic-art.com/]211.138.30.66
@@ -9140,7 +9130,6 @@
 [/awu3.net/]211.138.30.66
 [/awuming.com/]211.138.30.66
 [/awx1.com/]211.138.30.66
-[/awyyzx.com/]211.138.30.66
 [/ax1x.com/]211.138.30.66
 [/ax2nc4.ren/]211.138.30.66
 [/ax630.com/]211.138.30.66
@@ -9546,7 +9535,6 @@
 [/bandaoapp.com/]211.138.30.66
 [/bandayun.com/]211.138.30.66
 [/bandcevent.com/]211.138.30.66
-[/bandenghui.com/]211.138.30.66
 [/bandengw.com/]211.138.30.66
 [/bandianli.com/]211.138.30.66
 [/bandoristation.com/]211.138.30.66
@@ -10175,6 +10163,7 @@
 [/best100design.com/]211.138.30.66
 [/best66.me/]211.138.30.66
 [/best73.com/]211.138.30.66
+[/bestadprof.com/]211.138.30.66
 [/bestapp.us/]211.138.30.66
 [/bestatic.com/]211.138.30.66
 [/bestb2b.com/]211.138.30.66
@@ -10453,7 +10442,6 @@
 [/biketo.com/]211.138.30.66
 [/biketour-giant.com/]211.138.30.66
 [/biking-m.com/]211.138.30.66
-[/biknow.com/]211.138.30.66
 [/bilezu.com/]211.138.30.66
 [/bili.fan/]211.138.30.66
 [/biliapi.com/]211.138.30.66
@@ -11270,6 +11258,7 @@
 [/bookdao.com/]211.138.30.66
 [/bookdown.net/]211.138.30.66
 [/bookersea.com/]211.138.30.66
+[/bookfeel.com/]211.138.30.66
 [/booking001.com/]211.138.30.66
 [/bookinlife.net/]211.138.30.66
 [/books51.com/]211.138.30.66
@@ -11543,6 +11532,7 @@
 [/budao24.com/]211.138.30.66
 [/budhano.com/]211.138.30.66
 [/buding.tv/]211.138.30.66
+[/buding3.com/]211.138.30.66
 [/budingmore.com/]211.138.30.66
 [/budou.com/]211.138.30.66
 [/buduanwang.vip/]211.138.30.66
@@ -11834,7 +11824,6 @@
 [/c-nin.com/]211.138.30.66
 [/c-ps.net/]211.138.30.66
 [/c-rst.com/]211.138.30.66
-[/c-sky.com/]211.138.30.66
 [/c-sz.com/]211.138.30.66
 [/c-t.work/]211.138.30.66
 [/c-yl.com/]211.138.30.66
@@ -12653,6 +12642,7 @@
 [/cdnhwchcg02.com/]211.138.30.66
 [/cdnhwcibv122.com/]211.138.30.66
 [/cdnhwckfz116.com/]211.138.30.66
+[/cdnhwckon103.com/]211.138.30.66
 [/cdnhwclxu105.com/]211.138.30.66
 [/cdnhwcprh113.com/]211.138.30.66
 [/cdnhwctnm107.com/]211.138.30.66
@@ -12902,7 +12892,6 @@
 [/cfogc.com/]211.138.30.66
 [/cfpsf.com/]211.138.30.66
 [/cfsino.com/]211.138.30.66
-[/cfsl2017.com/]211.138.30.66
 [/cftea.com/]211.138.30.66
 [/cfucn.com/]211.138.30.66
 [/cfund108.com/]211.138.30.66
@@ -12910,7 +12899,6 @@
 [/cfxydefsyy.com/]211.138.30.66
 [/cfxyfsyy.com/]211.138.30.66
 [/cfxyjy.com/]211.138.30.66
-[/cfzghsc.com/]211.138.30.66
 [/cfzq.com/]211.138.30.66
 [/cg-orz.com/]211.138.30.66
 [/cg-zwdb.com/]211.138.30.66
@@ -13107,7 +13095,6 @@
 [/chao-fan.com/]211.138.30.66
 [/chaoart.com/]211.138.30.66
 [/chaofan.com/]211.138.30.66
-[/chaofanaishangyu.com/]211.138.30.66
 [/chaofanshuma.com/]211.138.30.66
 [/chaofenxiang.vip/]211.138.30.66
 [/chaohuishou.com/]211.138.30.66
@@ -13222,7 +13209,6 @@
 [/cheguo.com/]211.138.30.66
 [/chehang168.com/]211.138.30.66
 [/chehejia.com/]211.138.30.66
-[/chehubao.com/]211.138.30.66
 [/chehui.com/]211.138.30.66
 [/chekb.com/]211.138.30.66
 [/chekucafe.com/]211.138.30.66
@@ -13858,6 +13844,7 @@
 [/chinameyer.com/]211.138.30.66
 [/chinamfi.net/]211.138.30.66
 [/chinamining.com/]211.138.30.66
+[/chinamishu.net/]211.138.30.66
 [/chinamission.be/]211.138.30.66
 [/chinamlmcc.com/]211.138.30.66
 [/chinamobile.com/]211.138.30.66
@@ -14116,6 +14103,7 @@
 [/chipcreation.com/]211.138.30.66
 [/chipdance.com/]211.138.30.66
 [/chiphell.com/]211.138.30.66
+[/chiphometek.com/]211.138.30.66
 [/chiplayout.net/]211.138.30.66
 [/chipmanufacturing.org/]211.138.30.66
 [/chiponeic.com/]211.138.30.66
@@ -14144,7 +14132,6 @@
 [/chixm.com/]211.138.30.66
 [/chixuyun.com/]211.138.30.66
 [/chiyekeji.com/]211.138.30.66
-[/chiyuekj.com/]211.138.30.66
 [/chiyufeng.com/]211.138.30.66
 [/chizao.com/]211.138.30.66
 [/chizhouchacha.com/]211.138.30.66
@@ -14218,6 +14205,7 @@
 [/chongyejia.com/]211.138.30.66
 [/chongyitang.org/]211.138.30.66
 [/chonka.com/]211.138.30.66
+[/choqi.com/]211.138.30.66
 [/chotee.com/]211.138.30.66
 [/chouchou.club/]211.138.30.66
 [/chouchoujiang.com/]211.138.30.66
@@ -14363,7 +14351,6 @@
 [/chunshuitang.com/]211.138.30.66
 [/chunshuizhijia.com/]211.138.30.66
 [/chunsuns.com/]211.138.30.66
-[/chunxing51.xyz/]211.138.30.66
 [/chunxuanmao.com/]211.138.30.66
 [/chunyiscdk.com/]211.138.30.66
 [/chunyu.me/]211.138.30.66
@@ -14512,7 +14499,6 @@
 [/cismef.com/]211.138.30.66
 [/cisskwt.com/]211.138.30.66
 [/citahub.com/]211.138.30.66
-[/citascumbres.com/]211.138.30.66
 [/citexpo.org/]211.138.30.66
 [/citiais.com/]211.138.30.66
 [/citic-cid.com/]211.138.30.66
@@ -15407,7 +15393,6 @@
 [/cnxclm.com/]211.138.30.66
 [/cnxct.com/]211.138.30.66
 [/cnxds.com/]211.138.30.66
-[/cnxfans.com/]211.138.30.66
 [/cnxhacker.com/]211.138.30.66
 [/cnxiangyan.com/]211.138.30.66
 [/cnxiantao.com/]211.138.30.66
@@ -15504,7 +15489,6 @@
 [/codemany.com/]211.138.30.66
 [/codemart.com/]211.138.30.66
 [/codemm.net/]211.138.30.66
-[/codeok.com/]211.138.30.66
 [/codepku.com/]211.138.30.66
 [/codeplayer.vip/]211.138.30.66
 [/codeplaygames.com/]211.138.30.66
@@ -15896,7 +15880,6 @@
 [/cqfire.com/]211.138.30.66
 [/cqfuzhuang.com/]211.138.30.66
 [/cqfygzfw.com/]211.138.30.66
-[/cqfzb.org/]211.138.30.66
 [/cqgc.com/]211.138.30.66
 [/cqggzy.com/]211.138.30.66
 [/cqgmfw.com/]211.138.30.66
@@ -16300,8 +16283,10 @@
 [/ctfo.com/]211.138.30.66
 [/ctfund.com/]211.138.30.66
 [/ctg75.com/]211.138.30.66
+[/ctgapp.com/]211.138.30.66
 [/ctghealthy.com/]211.138.30.66
 [/ctghr.com/]211.138.30.66
+[/ctghro.com/]211.138.30.66
 [/cthhmu.com/]211.138.30.66
 [/cthuwork.com/]211.138.30.66
 [/cthuwork.net/]211.138.30.66
@@ -16448,7 +16433,6 @@
 [/cvmart.net/]211.138.30.66
 [/cvonet.com/]211.138.30.66
 [/cvoon.com/]211.138.30.66
-[/cvp-platform.com/]211.138.30.66
 [/cvrobot.net/]211.138.30.66
 [/cvte.com/]211.138.30.66
 [/cvtoutiao.com/]211.138.30.66
@@ -16599,7 +16583,6 @@
 [/cz-yk.com/]211.138.30.66
 [/cz.cc/]211.138.30.66
 [/cz2sc.com/]211.138.30.66
-[/cz8.com/]211.138.30.66
 [/cz89.com/]211.138.30.66
 [/czb365.com/]211.138.30.66
 [/czbanbantong.com/]211.138.30.66
@@ -16615,7 +16598,6 @@
 [/czctech.com/]211.138.30.66
 [/czdingming.com/]211.138.30.66
 [/czdrbz.com/]211.138.30.66
-[/czds.net/]211.138.30.66
 [/czech-visacenter.com/]211.138.30.66
 [/czedu.com/]211.138.30.66
 [/czepb.com/]211.138.30.66
@@ -16795,7 +16777,6 @@
 [/dahuhg.com/]211.138.30.66
 [/dahuifuwu.com/]211.138.30.66
 [/dahulu.com/]211.138.30.66
-[/dahuoji.biz/]211.138.30.66
 [/dai361.com/]211.138.30.66
 [/dai911.com/]211.138.30.66
 [/daibi.com/]211.138.30.66
@@ -17237,7 +17218,6 @@
 [/dbshop.net/]211.138.30.66
 [/dbt-coin.com/]211.138.30.66
 [/dc-cn.com/]211.138.30.66
-[/dc1103.com/]211.138.30.66
 [/dcarapi.com/]211.138.30.66
 [/dcarimg.com/]211.138.30.66
 [/dcarstatic.com/]211.138.30.66
@@ -17384,7 +17364,6 @@
 [/deemos.com/]211.138.30.66
 [/deepbluenetwork.com/]211.138.30.66
 [/deepcloudsdp.com/]211.138.30.66
-[/deepdevelop.com/]211.138.30.66
 [/deepepg.com/]211.138.30.66
 [/deepermobile.com/]211.138.30.66
 [/deepin-ai.com/]211.138.30.66
@@ -17567,7 +17546,6 @@
 [/dfham.com/]211.138.30.66
 [/dfhon.com/]211.138.30.66
 [/dfhtjn.com/]211.138.30.66
-[/dfkan.com/]211.138.30.66
 [/dfkcgs.com/]211.138.30.66
 [/dfkhgj.com/]211.138.30.66
 [/dfkj.cc/]211.138.30.66
@@ -17672,7 +17650,6 @@
 [/dheear.site/]211.138.30.66
 [/dhfeng.com/]211.138.30.66
 [/dhhqfw.com/]211.138.30.66
-[/dhifi.com/]211.138.30.66
 [/dhimavision.com/]211.138.30.66
 [/dhjt.com/]211.138.30.66
 [/dhkipdsc.xyz/]211.138.30.66
@@ -18057,7 +18034,6 @@
 [/diyring.cc/]211.138.30.66
 [/diyvinylcutters.com/]211.138.30.66
 [/diywoju.com/]211.138.30.66
-[/diywz.com/]211.138.30.66
 [/diyyh.com/]211.138.30.66
 [/dizhi.xin/]211.138.30.66
 [/dizzylab.net/]211.138.30.66
@@ -18150,6 +18126,7 @@
 [/dlpuwan.com/]211.138.30.66
 [/dlrjtz.com/]211.138.30.66
 [/dlrkb.com/]211.138.30.66
+[/dlrtz.com/]211.138.30.66
 [/dlsjcsb.com/]211.138.30.66
 [/dlsqb.com/]211.138.30.66
 [/dlssa.com/]211.138.30.66
@@ -18780,6 +18757,7 @@
 [/dskystudio.com/]211.138.30.66
 [/dslbuy.com/]211.138.30.66
 [/dslyy.com/]211.138.30.66
+[/dsmxp.com/]211.138.30.66
 [/dsmyiyuan.com/]211.138.30.66
 [/dsmzyy.com/]211.138.30.66
 [/dsmzyy120.com/]211.138.30.66
@@ -18800,7 +18778,6 @@
 [/dsxys.pro/]211.138.30.66
 [/dsyjz0755.com/]211.138.30.66
 [/dszw.net/]211.138.30.66
-[/dtcash.com/]211.138.30.66
 [/dtcj.com/]211.138.30.66
 [/dtcms.net/]211.138.30.66
 [/dtcoalmine.com/]211.138.30.66
@@ -19397,7 +19374,6 @@
 [/easy2world.com/]211.138.30.66
 [/easy361.com/]211.138.30.66
 [/easy888.com/]211.138.30.66
-[/easyai.tech/]211.138.30.66
 [/easyaq.com/]211.138.30.66
 [/easyar.com/]211.138.30.66
 [/easyarvr.com/]211.138.30.66
@@ -19930,7 +19906,6 @@
 [/elecinfo.com/]211.138.30.66
 [/elecrystal.com/]211.138.30.66
 [/elecshop.com/]211.138.30.66
-[/electrikka.com/]211.138.30.66
 [/eleduck.com/]211.138.30.66
 [/elefang.com/]211.138.30.66
 [/eleme.io/]211.138.30.66
@@ -19952,7 +19927,6 @@
 [/elichtmedia.com/]211.138.30.66
 [/elikeme.com/]211.138.30.66
 [/elikeme.net/]211.138.30.66
-[/elionchemzone.com/]211.138.30.66
 [/elitecrm.com/]211.138.30.66
 [/eliushi.com/]211.138.30.66
 [/eliwang.com/]211.138.30.66
@@ -21057,6 +21031,7 @@
 [/fdjzu.com/]211.138.30.66
 [/fdkjgz.com/]211.138.30.66
 [/fdkm88.com/]211.138.30.66
+[/fdlbeckwai.com/]211.138.30.66
 [/fdlt.net/]211.138.30.66
 [/fdmgj.com/]211.138.30.66
 [/fdpx.com/]211.138.30.66
@@ -21083,7 +21058,6 @@
 [/feelcars.com/]211.138.30.66
 [/feelchat.net/]211.138.30.66
 [/feelec.net/]211.138.30.66
-[/feeliu.com/]211.138.30.66
 [/feemoo.vip/]211.138.30.66
 [/feepan.com/]211.138.30.66
 [/feesoon.com/]211.138.30.66
@@ -21132,7 +21106,6 @@
 [/feihu.me/]211.138.30.66
 [/feihuo.com/]211.138.30.66
 [/feihutaoke.com/]211.138.30.66
-[/feiin.com/]211.138.30.66
 [/feijiu.net/]211.138.30.66
 [/feijizu.com/]211.138.30.66
 [/feikongbao.com/]211.138.30.66
@@ -21339,7 +21312,6 @@
 [/fft.plus/]211.138.30.66
 [/fft123.com/]211.138.30.66
 [/ffxiv.co/]211.138.30.66
-[/ffxiv.xin/]211.138.30.66
 [/ffxivhuntcn.com/]211.138.30.66
 [/ffyinxiang.com/]211.138.30.66
 [/ffzww.com/]211.138.30.66
@@ -21508,7 +21480,6 @@
 [/fjdh.com/]211.138.30.66
 [/fjdnf.com/]211.138.30.66
 [/fjeca.com/]211.138.30.66
-[/fjedu.com/]211.138.30.66
 [/fjfoxiang.com/]211.138.30.66
 [/fjgdwl.com/]211.138.30.66
 [/fjgwy.org/]211.138.30.66
@@ -21895,7 +21866,6 @@
 [/freemoban.com/]211.138.30.66
 [/freemudgame.com/]211.138.30.66
 [/freeoa.net/]211.138.30.66
-[/freeok.vip/]211.138.30.66
 [/freeqingnovel.com/]211.138.30.66
 [/freericheyes.com/]211.138.30.66
 [/freeshoppingchina.com/]211.138.30.66
@@ -22260,6 +22230,7 @@
 [/fz222.com/]211.138.30.66
 [/fz2sc.com/]211.138.30.66
 [/fz597.com/]211.138.30.66
+[/fzahw.com/]211.138.30.66
 [/fzccpit.org/]211.138.30.66
 [/fzcyjh.com/]211.138.30.66
 [/fzdmag.com/]211.138.30.66
@@ -22648,6 +22619,7 @@
 [/gd165.com/]211.138.30.66
 [/gd2000.org/]211.138.30.66
 [/gd32.com/]211.138.30.66
+[/gd32mcu.com/]211.138.30.66
 [/gd3n.com/]211.138.30.66
 [/gda086.com/]211.138.30.66
 [/gdadjs.com/]211.138.30.66
@@ -23056,6 +23028,7 @@
 [/gimmgimm.com/]211.138.30.66
 [/gimoo.net/]211.138.30.66
 [/ginshio.org/]211.138.30.66
+[/gio.ren/]211.138.30.66
 [/giocdn.com/]211.138.30.66
 [/gionee.com/]211.138.30.66
 [/gionee.net/]211.138.30.66
@@ -23683,7 +23656,6 @@
 [/groad.net/]211.138.30.66
 [/groovyfilmes.com/]211.138.30.66
 [/grouk.com/]211.138.30.66
-[/ground2ridge.com/]211.138.30.66
 [/group-purchasing.com/]211.138.30.66
 [/group.citic/]211.138.30.66
 [/groupjx.com/]211.138.30.66
@@ -23710,6 +23682,7 @@
 [/gsdpw.com/]211.138.30.66
 [/gse4sa.com/]211.138.30.66
 [/gsflcp.com/]211.138.30.66
+[/gsfzb.com/]211.138.30.66
 [/gsgs10086.com/]211.138.30.66
 [/gsgundam.com/]211.138.30.66
 [/gshhqy.com/]211.138.30.66
@@ -23915,7 +23888,6 @@
 [/gucn.com/]211.138.30.66
 [/gucun.info/]211.138.30.66
 [/gucunpark.net/]211.138.30.66
-[/gudage.cc/]211.138.30.66
 [/gudaovision.com/]211.138.30.66
 [/gudemanage.com/]211.138.30.66
 [/gudi.cc/]211.138.30.66
@@ -24282,6 +24254,7 @@
 [/gzcl999.com/]211.138.30.66
 [/gzcn.net/]211.138.30.66
 [/gzcppa.com/]211.138.30.66
+[/gzcxhd.com/]211.138.30.66
 [/gzcycling.com/]211.138.30.66
 [/gzdai.com/]211.138.30.66
 [/gzdaily.com/]211.138.30.66
@@ -24296,7 +24269,6 @@
 [/gzfc.net/]211.138.30.66
 [/gzfilm.com/]211.138.30.66
 [/gzfsnet.com/]211.138.30.66
-[/gzgc120.com/]211.138.30.66
 [/gzgdwl.com/]211.138.30.66
 [/gzgxkj.com/]211.138.30.66
 [/gzhakj.com/]211.138.30.66
@@ -24500,6 +24472,7 @@
 [/h7ec.com/]211.138.30.66
 [/h8jx.com/]211.138.30.66
 [/h9hash.com/]211.138.30.66
+[/ha1916.com/]211.138.30.66
 [/ha97.com/]211.138.30.66
 [/haawking.com/]211.138.30.66
 [/habadog.com/]211.138.30.66
@@ -24562,6 +24535,7 @@
 [/haiboyi.com/]211.138.30.66
 [/haicent.com/]211.138.30.66
 [/haichangchina.com/]211.138.30.66
+[/haichangoceanpark.com/]211.138.30.66
 [/haichuanmei.com/]211.138.30.66
 [/haichufang.com/]211.138.30.66
 [/haici.com/]211.138.30.66
@@ -25114,6 +25088,7 @@
 [/harrynull.tech/]211.138.30.66
 [/harrypottermagicawakened.com/]211.138.30.66
 [/harvestcm.com/]211.138.30.66
+[/harvesthanger.com/]211.138.30.66
 [/harvestpawn.com/]211.138.30.66
 [/harvey.plus/]211.138.30.66
 [/hasea.com/]211.138.30.66
@@ -25153,6 +25128,7 @@
 [/hb78.cc/]211.138.30.66
 [/hb96369.com/]211.138.30.66
 [/hb96568.com/]211.138.30.66
+[/hbaas.com/]211.138.30.66
 [/hbadei.com/]211.138.30.66
 [/hbanbao.com/]211.138.30.66
 [/hbap.net/]211.138.30.66
@@ -26212,9 +26188,7 @@
 [/hlkncse.com/]211.138.30.66
 [/hlltuozhan.com/]211.138.30.66
 [/hlmbbs.com/]211.138.30.66
-[/hlmseo.com/]211.138.30.66
 [/hlnmg.com/]211.138.30.66
-[/hloli.org/]211.138.30.66
 [/hloong.com/]211.138.30.66
 [/hlpretty.net/]211.138.30.66
 [/hlqiaojia.com/]211.138.30.66
@@ -26710,8 +26684,6 @@
 [/hq52.com/]211.138.30.66
 [/hq88.com/]211.138.30.66
 [/hqbd.com/]211.138.30.66
-[/hqbet199.com/]211.138.30.66
-[/hqbet391.com/]211.138.30.66
 [/hqbnb.com/]211.138.30.66
 [/hqbsh.com/]211.138.30.66
 [/hqbuoh.com/]211.138.30.66
@@ -26930,6 +26902,7 @@
 [/html5plus.org/]211.138.30.66
 [/html5train.com/]211.138.30.66
 [/html5tricks.com/]211.138.30.66
+[/htmlai.com/]211.138.30.66
 [/htmleaf.com/]211.138.30.66
 [/htmlsucai.com/]211.138.30.66
 [/htnice.com/]211.138.30.66
@@ -27380,6 +27353,7 @@
 [/huishengqianzhushou.com/]211.138.30.66
 [/huishoubao.com/]211.138.30.66
 [/huishoubaojiadan.com/]211.138.30.66
+[/huishoujiuwu.com/]211.138.30.66
 [/huishoushang.com/]211.138.30.66
 [/huishuaka.com/]211.138.30.66
 [/huishuang.xyz/]211.138.30.66
@@ -28432,7 +28406,6 @@
 [/ideazhao.com/]211.138.30.66
 [/ideebank.com/]211.138.30.66
 [/ideepin.com/]211.138.30.66
-[/ideling.com/]211.138.30.66
 [/ideng.com/]211.138.30.66
 [/idesktopcal.com/]211.138.30.66
 [/idevz.org/]211.138.30.66
@@ -28682,7 +28655,6 @@
 [/ihengheng.com/]211.138.30.66
 [/ihenji.com/]211.138.30.66
 [/ihepa.com/]211.138.30.66
-[/ihetou.com/]211.138.30.66
 [/ihewro.com/]211.138.30.66
 [/ihggccampaign.com/]211.138.30.66
 [/ihhubei.com/]211.138.30.66
@@ -28827,7 +28799,6 @@
 [/ikongjian.com/]211.138.30.66
 [/ikongjun.com/]211.138.30.66
 [/ikonke.com/]211.138.30.66
-[/ikoo8.com/]211.138.30.66
 [/ikozn.com/]211.138.30.66
 [/iksea.com/]211.138.30.66
 [/iku.cool/]211.138.30.66
@@ -28899,6 +28870,7 @@
 [/iluvatar.ai/]211.138.30.66
 [/ilv6.com/]211.138.30.66
 [/ilxdh.com/]211.138.30.66
+[/ilz.me/]211.138.30.66
 [/im-cc.com/]211.138.30.66
 [/im170.com/]211.138.30.66
 [/im286.com/]211.138.30.66
@@ -29116,7 +29088,6 @@
 [/ind-app-comp.com/]211.138.30.66
 [/ind-map.com/]211.138.30.66
 [/ind9ed.com/]211.138.30.66
-[/inderflex-technoflex.com/]211.138.30.66
 [/indexedu.com/]211.138.30.66
 [/indexedu.net/]211.138.30.66
 [/indexmob.com/]211.138.30.66
@@ -29312,7 +29283,6 @@
 [/ioiox.com/]211.138.30.66
 [/iok.la/]211.138.30.66
 [/iol8.com/]211.138.30.66
-[/iomsew.com/]211.138.30.66
 [/ioneball.com/]211.138.30.66
 [/ionewu.com/]211.138.30.66
 [/ionichina.com/]211.138.30.66
@@ -29500,7 +29470,6 @@
 [/irs01.net/]211.138.30.66
 [/irs03.com/]211.138.30.66
 [/irskj.com/]211.138.30.66
-[/iruad.com/]211.138.30.66
 [/iruanmi.com/]211.138.30.66
 [/iruidian.com/]211.138.30.66
 [/iruixing.com/]211.138.30.66
@@ -30304,7 +30273,6 @@
 [/jeesci.com/]211.138.30.66
 [/jeesite.com/]211.138.30.66
 [/jeeyaa.com/]211.138.30.66
-[/jefang.com/]211.138.30.66
 [/jeffjade.com/]211.138.30.66
 [/jeffreyitstudio.com/]211.138.30.66
 [/jeffstudio.net/]211.138.30.66
@@ -30346,7 +30314,6 @@
 [/jfduoduo.com/]211.138.30.66
 [/jfedu.net/]211.138.30.66
 [/jfewle.com/]211.138.30.66
-[/jfffabc.com/]211.138.30.66
 [/jfh.com/]211.138.30.66
 [/jfh8ad.com/]211.138.30.66
 [/jfinal.com/]211.138.30.66
@@ -30422,6 +30389,7 @@
 [/jhypcy.com/]211.138.30.66
 [/jhyslw.com/]211.138.30.66
 [/jhzhizao.com/]211.138.30.66
+[/jhzpgw.com/]211.138.30.66
 [/ji36.net/]211.138.30.66
 [/ji7.com/]211.138.30.66
 [/jia-he-jia.com/]211.138.30.66
@@ -30635,7 +30603,6 @@
 [/jiaoqiuqingxi.net/]211.138.30.66
 [/jiaoshouhuayuan.com/]211.138.30.66
 [/jiaoshouwang.com/]211.138.30.66
-[/jiaotou.org/]211.138.30.66
 [/jiaoyimao.com/]211.138.30.66
 [/jiaoyin.com/]211.138.30.66
 [/jiaoyixia.com/]211.138.30.66
@@ -32391,7 +32358,6 @@
 [/k1u.com/]211.138.30.66
 [/k2ma.com/]211.138.30.66
 [/k2os.com/]211.138.30.66
-[/k345.cc/]211.138.30.66
 [/k366.com/]211.138.30.66
 [/k369.com/]211.138.30.66
 [/k38s0.xyz/]211.138.30.66
@@ -33085,7 +33051,6 @@
 [/kkkwww.com/]211.138.30.66
 [/kklishi.com/]211.138.30.66
 [/kklxj.com/]211.138.30.66
-[/kkmaoyi.com/]211.138.30.66
 [/kkmh.com/]211.138.30.66
 [/kkminer.com/]211.138.30.66
 [/kkmop.com/]211.138.30.66
@@ -33207,7 +33172,6 @@
 [/koiclub.net/]211.138.30.66
 [/koikreative.com/]211.138.30.66
 [/koinocn.com/]211.138.30.66
-[/kok4030.com/]211.138.30.66
 [/kokojia.com/]211.138.30.66
 [/kole8.com/]211.138.30.66
 [/kolrank.com/]211.138.30.66
@@ -34287,6 +34251,7 @@
 [/ldd.me/]211.138.30.66
 [/lddengine.com/]211.138.30.66
 [/lddgo.net/]211.138.30.66
+[/ldgslb.com/]211.138.30.66
 [/ldkj-zs.com/]211.138.30.66
 [/ldmap.net/]211.138.30.66
 [/ldmnq.com/]211.138.30.66
@@ -34359,7 +34324,6 @@
 [/lecoo8.com/]211.138.30.66
 [/lecuntao.com/]211.138.30.66
 [/ledanji.com/]211.138.30.66
-[/ledboke.com/]211.138.30.66
 [/ledcax.com/]211.138.30.66
 [/ledchina-sh.com/]211.138.30.66
 [/ledctl.com/]211.138.30.66
@@ -34658,7 +34622,6 @@
 [/lfhacks.com/]211.138.30.66
 [/lfhospital.net/]211.138.30.66
 [/lfhygl.com/]211.138.30.66
-[/lfidc.net/]211.138.30.66
 [/lfkjgh.com/]211.138.30.66
 [/lfksqzj.com/]211.138.30.66
 [/lflucky.com/]211.138.30.66
@@ -35719,7 +35682,6 @@
 [/longyucq.com/]211.138.30.66
 [/longyuedu.com/]211.138.30.66
 [/longyusheng.org/]211.138.30.66
-[/longzhongtv.com/]211.138.30.66
 [/longzhu.com/]211.138.30.66
 [/longzhulive.com/]211.138.30.66
 [/longzu.com/]211.138.30.66
@@ -35804,7 +35766,6 @@
 [/love.tv/]211.138.30.66
 [/love21cn.com/]211.138.30.66
 [/love3721.com/]211.138.30.66
-[/love616.com/]211.138.30.66
 [/love778.com/]211.138.30.66
 [/love85g.com/]211.138.30.66
 [/loveapp.com/]211.138.30.66
@@ -35879,7 +35840,6 @@
 [/lr-link.com/]211.138.30.66
 [/lrc99.com/]211.138.30.66
 [/lrcb.net/]211.138.30.66
-[/lrcgc.com/]211.138.30.66
 [/lrcku.com/]211.138.30.66
 [/lrhold.net/]211.138.30.66
 [/lrist.com/]211.138.30.66
@@ -36021,7 +35981,6 @@
 [/lugir.com/]211.138.30.66
 [/luhao198.com/]211.138.30.66
 [/luhehospital.com/]211.138.30.66
-[/luics.com/]211.138.30.66
 [/lujiang56.com/]211.138.30.66
 [/lujianxin.com/]211.138.30.66
 [/lujingtao.com/]211.138.30.66
@@ -36425,7 +36384,6 @@
 [/m8cool.com/]211.138.30.66
 [/m90cc.com/]211.138.30.66
 [/m937.com/]211.138.30.66
-[/m952.com/]211.138.30.66
 [/ma-china.com/]211.138.30.66
 [/ma3office.com/]211.138.30.66
 [/ma3you.com/]211.138.30.66
@@ -36450,7 +36408,6 @@
 [/macchiato.xyz/]211.138.30.66
 [/maccura.com/]211.138.30.66
 [/macdaxue.com/]211.138.30.66
-[/macerikson.com/]211.138.30.66
 [/machaojin.com/]211.138.30.66
 [/machenike.com/]211.138.30.66
 [/machine-information.com/]211.138.30.66
@@ -36932,7 +36889,6 @@
 [/mazey.net/]211.138.30.66
 [/mazhan.com/]211.138.30.66
 [/mazida.com/]211.138.30.66
-[/maziyou.com/]211.138.30.66
 [/mb-go.com/]211.138.30.66
 [/mb5u.com/]211.138.30.66
 [/mbabao.com/]211.138.30.66
@@ -37090,7 +37046,6 @@
 [/meiaoju.com/]211.138.30.66
 [/meibai14.com/]211.138.30.66
 [/meibg.com/]211.138.30.66
-[/meibiaoyi.net/]211.138.30.66
 [/meican.com/]211.138.30.66
 [/meicanstatic.com/]211.138.30.66
 [/meichibao.com/]211.138.30.66
@@ -37225,7 +37180,6 @@
 [/meitushop.com/]211.138.30.66
 [/meitustat.com/]211.138.30.66
 [/meituyun.com/]211.138.30.66
-[/meiweifood.xyz/]211.138.30.66
 [/meiweis.com/]211.138.30.66
 [/meiweishudan.com/]211.138.30.66
 [/meiwenting.com/]211.138.30.66
@@ -37294,6 +37248,7 @@
 [/mengqiuju.com/]211.138.30.66
 [/mengsang.com/]211.138.30.66
 [/mengso.com/]211.138.30.66
+[/mengte.online/]211.138.30.66
 [/mengtian.com/]211.138.30.66
 [/mengtuchuang.xyz/]211.138.30.66
 [/mengtuiapp.com/]211.138.30.66
@@ -37504,7 +37459,6 @@
 [/miaozhun.com/]211.138.30.66
 [/miaxis.net/]211.138.30.66
 [/miazhiyou.com/]211.138.30.66
-[/mibaostore.com/]211.138.30.66
 [/mibaoxian.com/]211.138.30.66
 [/mibimibi.com/]211.138.30.66
 [/mibokids.com/]211.138.30.66
@@ -37559,7 +37513,6 @@
 [/midiyinyue.com/]211.138.30.66
 [/midlele.com/]211.138.30.66
 [/midongtech.com/]211.138.30.66
-[/midsummer.cc/]211.138.30.66
 [/miduiedu.com/]211.138.30.66
 [/midukanshu.com/]211.138.30.66
 [/miduoke.net/]211.138.30.66
@@ -37886,7 +37839,6 @@
 [/mjzj.com/]211.138.30.66
 [/mk-yiliao.com/]211.138.30.66
 [/mk2048.com/]211.138.30.66
-[/mkaliez.com/]211.138.30.66
 [/mkaq.org/]211.138.30.66
 [/mkb0898.com/]211.138.30.66
 [/mkclick.com/]211.138.30.66
@@ -38340,7 +38292,6 @@
 [/moyangmoyang.com/]211.138.30.66
 [/moyann.com/]211.138.30.66
 [/moye.me/]211.138.30.66
-[/moyimusic.com/]211.138.30.66
 [/moyoutang.com/]211.138.30.66
 [/moyoyo.com/]211.138.30.66
 [/moyublog.com/]211.138.30.66
@@ -38815,6 +38766,7 @@
 [/mylmad.com/]211.138.30.66
 [/mylotushealth.com/]211.138.30.66
 [/mylovehome.com/]211.138.30.66
+[/mylsfw.com/]211.138.30.66
 [/mym001.com/]211.138.30.66
 [/mymaitian.com/]211.138.30.66
 [/mymanhua.com/]211.138.30.66
@@ -39865,6 +39817,7 @@
 [/noveless.com/]211.138.30.66
 [/novelfm.com/]211.138.30.66
 [/novelfmpic.com/]211.138.30.66
+[/novelfmstatic.com/]211.138.30.66
 [/novelfmvod.com/]211.138.30.66
 [/novell.me/]211.138.30.66
 [/novemideas.com/]211.138.30.66
@@ -40714,6 +40667,7 @@
 [/oupuzw.com/]211.138.30.66
 [/our100.net/]211.138.30.66
 [/our360vr.com/]211.138.30.66
+[/ourai.ws/]211.138.30.66
 [/ourail.com/]211.138.30.66
 [/ourats.com/]211.138.30.66
 [/ouravr.com/]211.138.30.66
@@ -40797,7 +40751,6 @@
 [/ovuems.com/]211.138.30.66
 [/ovupre.com/]211.138.30.66
 [/ovuwork.com/]211.138.30.66
-[/ovwin.com/]211.138.30.66
 [/owecn.com/]211.138.30.66
 [/owendswang.com/]211.138.30.66
 [/owllook.net/]211.138.30.66
@@ -40823,7 +40776,6 @@
 [/oyyj-oys.org/]211.138.30.66
 [/oz138.com/]211.138.30.66
 [/ozm.net/]211.138.30.66
-[/ozrot.com/]211.138.30.66
 [/ozsp.com/]211.138.30.66
 [/ozzyad.com/]211.138.30.66
 [/p-dragon.com/]211.138.30.66
@@ -40850,7 +40802,6 @@
 [/p2pxing.com/]211.138.30.66
 [/p2pxsj.com/]211.138.30.66
 [/p4pp.com/]211.138.30.66
-[/p512.com/]211.138.30.66
 [/p5412.com/]211.138.30.66
 [/p5w.net/]211.138.30.66
 [/p6157.com/]211.138.30.66
@@ -41099,7 +41050,6 @@
 [/paympay.com/]211.138.30.66
 [/payrao.com/]211.138.30.66
 [/paysapi.com/]211.138.30.66
-[/paytbf.com/]211.138.30.66
 [/payxinyi.com/]211.138.30.66
 [/pb114.xyz/]211.138.30.66
 [/pb89.com/]211.138.30.66
@@ -41709,7 +41659,6 @@
 [/plalzhang.com/]211.138.30.66
 [/planckled.com/]211.138.30.66
 [/planetmeican.com/]211.138.30.66
-[/plantextra.com/]211.138.30.66
 [/plantname.xyz/]211.138.30.66
 [/plantower.com/]211.138.30.66
 [/plateno.cc/]211.138.30.66
@@ -42257,7 +42206,6 @@
 [/py1314.com/]211.138.30.66
 [/py168.com/]211.138.30.66
 [/py3study.com/]211.138.30.66
-[/py40.com/]211.138.30.66
 [/py6.com/]211.138.30.66
 [/py94.com/]211.138.30.66
 [/pyadx.com/]211.138.30.66
@@ -42663,7 +42611,6 @@
 [/qianrihong.net/]211.138.30.66
 [/qianrong.me/]211.138.30.66
 [/qianshanren.com/]211.138.30.66
-[/qiansw.com/]211.138.30.66
 [/qiantucdn.com/]211.138.30.66
 [/qianvisa.com/]211.138.30.66
 [/qianwa.com/]211.138.30.66
@@ -43043,7 +42990,6 @@
 [/qitoon.com/]211.138.30.66
 [/qitxt.com/]211.138.30.66
 [/qiu-ai.com/]211.138.30.66
-[/qiubet681.com/]211.138.30.66
 [/qiubiaoqing.com/]211.138.30.66
 [/qiucinews.com/]211.138.30.66
 [/qiudian.net/]211.138.30.66
@@ -43206,7 +43152,6 @@
 [/qmconfig.com/]211.138.30.66
 [/qmei.me/]211.138.30.66
 [/qmei.vip/]211.138.30.66
-[/qmf3.cc/]211.138.30.66
 [/qmhd87.com/]211.138.30.66
 [/qmht.com/]211.138.30.66
 [/qmht.mobi/]211.138.30.66
@@ -43772,6 +43717,7 @@
 [/qxnecn.com/]211.138.30.66
 [/qxnic.com/]211.138.30.66
 [/qxnzx.com/]211.138.30.66
+[/qxsdq.com/]211.138.30.66
 [/qxslyfjq.com/]211.138.30.66
 [/qxswk.com/]211.138.30.66
 [/qxueyou.com/]211.138.30.66
@@ -43924,7 +43870,6 @@
 [/raisedsun.com/]211.138.30.66
 [/raisinsta.com/]211.138.30.66
 [/raiyi.com/]211.138.30.66
-[/rajapipaindonesia.com/]211.138.30.66
 [/rajax.me/]211.138.30.66
 [/rakinda-xm.com/]211.138.30.66
 [/ralf.ren/]211.138.30.66
@@ -43984,6 +43929,8 @@
 [/razrlele.com/]211.138.30.66
 [/raztb.com/]211.138.30.66
 [/rb400.com/]211.138.30.66
+[/rbbko.com/]211.138.30.66
+[/rbbrao.com/]211.138.30.66
 [/rbischina.org/]211.138.30.66
 [/rbqq.com/]211.138.30.66
 [/rbz1672.com/]211.138.30.66
@@ -44576,7 +44523,6 @@
 [/rrfmn.com/]211.138.30.66
 [/rrimg.com/]211.138.30.66
 [/rrjc.com/]211.138.30.66
-[/rrjump.com/]211.138.30.66
 [/rrkf.com/]211.138.30.66
 [/rrkvip.com/]211.138.30.66
 [/rrky.com/]211.138.30.66
@@ -44689,6 +44635,7 @@
 [/ruihaimeifeng.com/]211.138.30.66
 [/ruihuo.com/]211.138.30.66
 [/ruiii.com/]211.138.30.66
+[/ruijiehuanbao.com/]211.138.30.66
 [/ruijienetworks.com/]211.138.30.66
 [/ruijiery.com/]211.138.30.66
 [/ruijinginfo.com/]211.138.30.66
@@ -44950,6 +44897,7 @@
 [/samyuong.com/]211.138.30.66
 [/samzhe.com/]211.138.30.66
 [/san-health.net/]211.138.30.66
+[/san-petersburgo.net/]211.138.30.66
 [/san-sheng.net/]211.138.30.66
 [/sancanal.com/]211.138.30.66
 [/sancunrenjian.org/]211.138.30.66
@@ -45066,6 +45014,7 @@
 [/sawenow.com/]211.138.30.66
 [/saxydc.com/]211.138.30.66
 [/sayabear.com/]211.138.30.66
+[/sayll.com/]211.138.30.66
 [/sayloving.com/]211.138.30.66
 [/saywash.com/]211.138.30.66
 [/sbanzu.com/]211.138.30.66
@@ -45216,6 +45165,7 @@
 [/scqiuchang.com/]211.138.30.66
 [/scrcu.com/]211.138.30.66
 [/scredcross.com/]211.138.30.66
+[/scriptcat.org/]211.138.30.66
 [/scriptjc.com/]211.138.30.66
 [/scrmtech.com/]211.138.30.66
 [/scrsw.net/]211.138.30.66
@@ -45337,7 +45287,6 @@
 [/sdj-tech.com/]211.138.30.66
 [/sdjcw.com/]211.138.30.66
 [/sdjnwx.com/]211.138.30.66
-[/sdjob110.com/]211.138.30.66
 [/sdjtbd.com/]211.138.30.66
 [/sdjtcx.com/]211.138.30.66
 [/sdjushu.com/]211.138.30.66
@@ -46199,7 +46148,6 @@
 [/shganheng.com/]211.138.30.66
 [/shgao.com/]211.138.30.66
 [/shgaoxin.net/]211.138.30.66
-[/shgaozhuang.com/]211.138.30.66
 [/shgci.com/]211.138.30.66
 [/shgjj.com/]211.138.30.66
 [/shgk.com/]211.138.30.66
@@ -46505,6 +46453,7 @@
 [/shouxintec.com/]211.138.30.66
 [/shouyao.com/]211.138.30.66
 [/shouye-wang.com/]211.138.30.66
+[/shouyihuo.com/]211.138.30.66
 [/shouyou.com/]211.138.30.66
 [/shouyoubus.com/]211.138.30.66
 [/shouyoucdn.com/]211.138.30.66
@@ -46526,8 +46475,6 @@
 [/showapk.com/]211.138.30.66
 [/showchina.org/]211.138.30.66
 [/showcome.net/]211.138.30.66
-[/showcoopda.xyz/]211.138.30.66
-[/showcoorcb.xyz/]211.138.30.66
 [/showdoc.cc/]211.138.30.66
 [/showerlee.com/]211.138.30.66
 [/showing9.com/]211.138.30.66
@@ -46692,7 +46639,6 @@
 [/shuiliaosheji.com/]211.138.30.66
 [/shuimiao.net/]211.138.30.66
 [/shuimujiaju.com/]211.138.30.66
-[/shuimushequ.com/]211.138.30.66
 [/shuimuyulin.com/]211.138.30.66
 [/shuini.biz/]211.138.30.66
 [/shuipingzuo.com/]211.138.30.66
@@ -46779,7 +46725,6 @@
 [/shushubuyue.net/]211.138.30.66
 [/shusw.com/]211.138.30.66
 [/shuti.com/]211.138.30.66
-[/shuttle.co/]211.138.30.66
 [/shuwangxing.com/]211.138.30.66
 [/shuwenxianyun.com/]211.138.30.66
 [/shuwulou.com/]211.138.30.66
@@ -47112,6 +47057,7 @@
 [/sir66.com/]211.138.30.66
 [/siryin.com/]211.138.30.66
 [/sisen.com/]211.138.30.66
+[/sisensing.com/]211.138.30.66
 [/sishuok.com/]211.138.30.66
 [/sishuxuefu.com/]211.138.30.66
 [/sisijiyi.com/]211.138.30.66
@@ -47248,7 +47194,6 @@
 [/sketchchina.com/]211.138.30.66
 [/sketchchina.net/]211.138.30.66
 [/sketchcn.com/]211.138.30.66
-[/sketchk.xyz/]211.138.30.66
 [/sketchupbar.com/]211.138.30.66
 [/sketchupbbs.com/]211.138.30.66
 [/skg.com/]211.138.30.66
@@ -47451,6 +47396,7 @@
 [/smk3000.com/]211.138.30.66
 [/smkmake.com/]211.138.30.66
 [/smkmp.com/]211.138.30.66
+[/smlaw8.com/]211.138.30.66
 [/smmy365.com/]211.138.30.66
 [/smo-clinplus.com/]211.138.30.66
 [/smo-software.com/]211.138.30.66
@@ -47594,7 +47540,6 @@
 [/sofastack.tech/]211.138.30.66
 [/sofi-tech.com/]211.138.30.66
 [/sofreight.com/]211.138.30.66
-[/soft10.net/]211.138.30.66
 [/soft128.com/]211.138.30.66
 [/soft2005.com/]211.138.30.66
 [/soft50.com/]211.138.30.66
@@ -47820,6 +47765,7 @@
 [/soulgame.mobi/]211.138.30.66
 [/souluo.net/]211.138.30.66
 [/soulwonderland.com/]211.138.30.66
+[/sound-force.com/]211.138.30.66
 [/soundai.info/]211.138.30.66
 [/soupan.info/]211.138.30.66
 [/soupf.net/]211.138.30.66
@@ -47875,7 +47821,6 @@
 [/soxsok.com/]211.138.30.66
 [/soyim.com/]211.138.30.66
 [/soyiyuan.com/]211.138.30.66
-[/soyobo.com/]211.138.30.66
 [/soyohui.com/]211.138.30.66
 [/soyoung.com/]211.138.30.66
 [/soyouso.com/]211.138.30.66
@@ -47975,6 +47920,7 @@
 [/sptcc.com/]211.138.30.66
 [/sptccn.com/]211.138.30.66
 [/spthome.com/]211.138.30.66
+[/spush.com/]211.138.30.66
 [/spyouxi.com/]211.138.30.66
 [/spzs.com/]211.138.30.66
 [/sq1996.com/]211.138.30.66
@@ -48024,6 +47970,7 @@
 [/srrtvu.com/]211.138.30.66
 [/srtong.com/]211.138.30.66
 [/srun.com/]211.138.30.66
+[/srusoq.com/]211.138.30.66
 [/srw00.com/]211.138.30.66
 [/srworld.net/]211.138.30.66
 [/srx3.net/]211.138.30.66
@@ -48081,7 +48028,6 @@
 [/sspeeddns.com/]211.138.30.66
 [/ssports.com/]211.138.30.66
 [/ssports.net/]211.138.30.66
-[/sspsky.com/]211.138.30.66
 [/ssqgx.com/]211.138.30.66
 [/ssqzj.com/]211.138.30.66
 [/ssrcdn.com/]211.138.30.66
@@ -48216,7 +48162,6 @@
 [/stjfw.net/]211.138.30.66
 [/stkey.win/]211.138.30.66
 [/stklt.com/]211.138.30.66
-[/stlpetanque.com/]211.138.30.66
 [/stlswm.com/]211.138.30.66
 [/stmaoyi.com/]211.138.30.66
 [/stmbuy.com/]211.138.30.66
@@ -49241,6 +49186,7 @@
 [/taianmedia.com/]211.138.30.66
 [/taiantang.net/]211.138.30.66
 [/taibumall.com/]211.138.30.66
+[/taichi-maker.com/]211.138.30.66
 [/taichyfood.com/]211.138.30.66
 [/taicihome.com/]211.138.30.66
 [/taidao.net/]211.138.30.66
@@ -49681,6 +49627,8 @@
 [/teacti.com/]211.138.30.66
 [/teakki.com/]211.138.30.66
 [/teaku.com/]211.138.30.66
+[/teallang.com/]211.138.30.66
+[/tealui.com/]211.138.30.66
 [/teamall.cc/]211.138.30.66
 [/teambition.com/]211.138.30.66
 [/teambition.net/]211.138.30.66
@@ -50001,6 +49949,7 @@
 [/thinksns.com/]211.138.30.66
 [/thinksrc.com/]211.138.30.66
 [/thinvent.com/]211.138.30.66
+[/thiscute.world/]211.138.30.66
 [/thishealthsummit.com/]211.138.30.66
 [/thiztech.com/]211.138.30.66
 [/thjunshi.com/]211.138.30.66
@@ -50436,7 +50385,6 @@
 [/tk-xiong.com/]211.138.30.66
 [/tk.anythinktech.com/]211.138.30.66
 [/tk163.com/]211.138.30.66
-[/tkf.ink/]211.138.30.66
 [/tkg5.com/]211.138.30.66
 [/tkgame.com/]211.138.30.66
 [/tkhealthcare.com/]211.138.30.66
@@ -51203,7 +51151,6 @@
 [/tuhu.org/]211.138.30.66
 [/tuhu.work/]211.138.30.66
 [/tuhusmart.com/]211.138.30.66
-[/tui-8.com/]211.138.30.66
 [/tui18.com/]211.138.30.66
 [/tui56.com/]211.138.30.66
 [/tuiaaaa.com/]211.138.30.66
@@ -51281,7 +51228,6 @@
 [/tukumanhua.com/]211.138.30.66
 [/tukuppt.com/]211.138.30.66
 [/tulading.com/]211.138.30.66
-[/tulaoshi.com/]211.138.30.66
 [/tuliaohr.net/]211.138.30.66
 [/tuling123.com/]211.138.30.66
 [/tuliren.com/]211.138.30.66
@@ -51552,7 +51498,6 @@
 [/tyksl.com/]211.138.30.66
 [/tymcdn.com/]211.138.30.66
 [/tyn.cc/]211.138.30.66
-[/tyncar.com/]211.138.30.66
 [/tyouai.com/]211.138.30.66
 [/tyouquan.com/]211.138.30.66
 [/typany.com/]211.138.30.66
@@ -52041,6 +51986,7 @@
 [/unzg.com/]211.138.30.66
 [/uochen.com/]211.138.30.66
 [/uodoo.com/]211.138.30.66
+[/uodzhx.com/]211.138.30.66
 [/uoeee.com/]211.138.30.66
 [/uofon.com/]211.138.30.66
 [/uoften.com/]211.138.30.66
@@ -52063,7 +52009,6 @@
 [/up71.com/]211.138.30.66
 [/upai.com/]211.138.30.66
 [/upaidui.com/]211.138.30.66
-[/upaiui.com/]211.138.30.66
 [/upaiyun.com/]211.138.30.66
 [/upan.cc/]211.138.30.66
 [/upanboot.com/]211.138.30.66
@@ -52743,7 +52688,6 @@
 [/vistastory.com/]211.138.30.66
 [/visualchina.com/]211.138.30.66
 [/visvachina.com/]211.138.30.66
-[/visweet.com/]211.138.30.66
 [/vitagou.com/]211.138.30.66
 [/vitagou.hk/]211.138.30.66
 [/vitarn.com/]211.138.30.66
@@ -52768,7 +52712,6 @@
 [/vjiazu.com/]211.138.30.66
 [/vjie.com/]211.138.30.66
 [/vjshi.com/]211.138.30.66
-[/vjty372.com/]211.138.30.66
 [/vjudge.net/]211.138.30.66
 [/vk6.me/]211.138.30.66
 [/vk8.co/]211.138.30.66
@@ -53264,7 +53207,6 @@
 [/wangjumeng.xin/]211.138.30.66
 [/wangjunwei.com/]211.138.30.66
 [/wangkl.com/]211.138.30.66
-[/wangl903.com/]211.138.30.66
 [/wangle.com/]211.138.30.66
 [/wanglibao.com/]211.138.30.66
 [/wanglu.info/]211.138.30.66
@@ -53728,7 +53670,6 @@
 [/weidianfans.com/]211.138.30.66
 [/weidiango.com/]211.138.30.66
 [/weidianyuedu.com/]211.138.30.66
-[/weidown.com/]211.138.30.66
 [/weidunewtab.com/]211.138.30.66
 [/weiduruanjian.com/]211.138.30.66
 [/weiengift.com/]211.138.30.66
@@ -53820,6 +53761,7 @@
 [/weiqingbao.cc/]211.138.30.66
 [/weiqitv.com/]211.138.30.66
 [/weiqudao.net/]211.138.30.66
+[/weiqundaquan.com/]211.138.30.66
 [/weiquyx.com/]211.138.30.66
 [/weiren.com/]211.138.30.66
 [/weisanyun.com/]211.138.30.66
@@ -54054,7 +53996,6 @@
 [/wenshendaka.com/]211.138.30.66
 [/wenshenku.com/]211.138.30.66
 [/wensheno.com/]211.138.30.66
-[/wenshibaowenbei.com/]211.138.30.66
 [/wenshijiawei.com/]211.138.30.66
 [/wenshuba.com/]211.138.30.66
 [/wenshubang.com/]211.138.30.66
@@ -54768,6 +54709,7 @@
 [/wlphp.com/]211.138.30.66
 [/wlqtpolytheatre.com/]211.138.30.66
 [/wlrjy.com/]211.138.30.66
+[/wls911.com/]211.138.30.66
 [/wlsgjslgy.com/]211.138.30.66
 [/wlski.com/]211.138.30.66
 [/wlsrenzaocaoping.com/]211.138.30.66
@@ -54838,7 +54780,6 @@
 [/wnlproyunying.com/]211.138.30.66
 [/wnlprozhanxing.com/]211.138.30.66
 [/wnlprozijia.com/]211.138.30.66
-[/wnn8.com/]211.138.30.66
 [/wnplayer.net/]211.138.30.66
 [/wnrb.net/]211.138.30.66
 [/wnshouhu.com/]211.138.30.66
@@ -54933,6 +54874,7 @@
 [/wolongyoule.com/]211.138.30.66
 [/wolongzywcdn.com/]211.138.30.66
 [/wolongzywcdn2.com/]211.138.30.66
+[/wolongzywcdn3.com/]211.138.30.66
 [/wolwo.ltd/]211.138.30.66
 [/wolwobiotech.com/]211.138.30.66
 [/womai.com/]211.138.30.66
@@ -55639,7 +55581,6 @@
 [/wypxj.com/]211.138.30.66
 [/wyq9.com/]211.138.30.66
 [/wyr.me/]211.138.30.66
-[/wys.net/]211.138.30.66
 [/wysaid.org/]211.138.30.66
 [/wysap.com/]211.138.30.66
 [/wysfgc.com/]211.138.30.66
@@ -55860,7 +55801,6 @@
 [/xbiquge.com/]211.138.30.66
 [/xbiquge.la/]211.138.30.66
 [/xbiquge.tw/]211.138.30.66
-[/xbiquge6.com/]211.138.30.66
 [/xbiqugew.com/]211.138.30.66
 [/xbiqukan.com/]211.138.30.66
 [/xbiquwx.la/]211.138.30.66
@@ -56338,7 +56278,6 @@
 [/xiaocms.com/]211.138.30.66
 [/xiaodaka.net/]211.138.30.66
 [/xiaodanyang.com/]211.138.30.66
-[/xiaodao360.com/]211.138.30.66
 [/xiaodaotv.com/]211.138.30.66
 [/xiaodaozhi.com/]211.138.30.66
 [/xiaodengta.com/]211.138.30.66
@@ -56795,7 +56734,6 @@
 [/xineurope.com/]211.138.30.66
 [/xinfangsheng.com/]211.138.30.66
 [/xinfee.com/]211.138.30.66
-[/xinfeel.com/]211.138.30.66
 [/xinfei.com/]211.138.30.66
 [/xinfeijituan.com/]211.138.30.66
 [/xinfengxitong.net/]211.138.30.66
@@ -56927,6 +56865,7 @@
 [/xinjiadiy.com/]211.138.30.66
 [/xinjiance.com/]211.138.30.66
 [/xinjianggou.com/]211.138.30.66
+[/xinjidian.com/]211.138.30.66
 [/xinjimo.com/]211.138.30.66
 [/xinjingks.com/]211.138.30.66
 [/xinjisuan.net/]211.138.30.66
@@ -57373,6 +57312,7 @@
 [/xmd5.com/]211.138.30.66
 [/xmeasygo.com/]211.138.30.66
 [/xmecard.com/]211.138.30.66
+[/xmeye.net/]211.138.30.66
 [/xmf.com/]211.138.30.66
 [/xmfc.com/]211.138.30.66
 [/xmferry.com/]211.138.30.66
@@ -57716,7 +57656,6 @@
 [/xuanxuantemai.com/]211.138.30.66
 [/xuanxue.com/]211.138.30.66
 [/xuanyangxl.com/]211.138.30.66
-[/xuanyaoxp.com/]211.138.30.66
 [/xuanyouwang.com/]211.138.30.66
 [/xuanyuanhuangdi.org/]211.138.30.66
 [/xuanyusong.com/]211.138.30.66
@@ -57776,7 +57715,6 @@
 [/xueming.li/]211.138.30.66
 [/xuenb.com/]211.138.30.66
 [/xuepaijie.com/]211.138.30.66
-[/xuepojie.com/]211.138.30.66
 [/xueqiu.com/]211.138.30.66
 [/xueqiu360.com/]211.138.30.66
 [/xuermh.com/]211.138.30.66
@@ -57833,6 +57771,7 @@
 [/xujun.org/]211.138.30.66
 [/xuka.com/]211.138.30.66
 [/xulaoshi68.com/]211.138.30.66
+[/xuld.net/]211.138.30.66
 [/xuliangwei.com/]211.138.30.66
 [/xuliehao.info/]211.138.30.66
 [/xulihang.me/]211.138.30.66
@@ -58234,6 +58173,7 @@
 [/yajuke.com/]211.138.30.66
 [/yajxc.com/]211.138.30.66
 [/yakool.com/]211.138.30.66
+[/yakshacc.cool/]211.138.30.66
 [/yalayi.net/]211.138.30.66
 [/yalewoo.com/]211.138.30.66
 [/yalishiyanji.com/]211.138.30.66
@@ -58372,7 +58312,6 @@
 [/yao.com/]211.138.30.66
 [/yao123.com/]211.138.30.66
 [/yao51.com/]211.138.30.66
-[/yaoao.net/]211.138.30.66
 [/yaobo.net/]211.138.30.66
 [/yaoburang.com/]211.138.30.66
 [/yaochufa.com/]211.138.30.66
@@ -58453,6 +58392,7 @@
 [/ybaby.com/]211.138.30.66
 [/ybao.org/]211.138.30.66
 [/ybaobx.com/]211.138.30.66
+[/ybask.com/]211.138.30.66
 [/ybbdzp.com/]211.138.30.66
 [/ybbgd.com/]211.138.30.66
 [/ybbxkj.com/]211.138.30.66
@@ -58538,7 +58478,6 @@
 [/yczxyy.com/]211.138.30.66
 [/ydbimg.com/]211.138.30.66
 [/ydc360.com/]211.138.30.66
-[/yddff556.xyz/]211.138.30.66
 [/yddxkj.com/]211.138.30.66
 [/ydh.fun/]211.138.30.66
 [/ydimmi.com/]211.138.30.66
@@ -59028,7 +58967,6 @@
 [/yimizhibo.tv/]211.138.30.66
 [/yimutian.com/]211.138.30.66
 [/yimuymc.com/]211.138.30.66
-[/yinan9.com/]211.138.30.66
 [/yinar.com/]211.138.30.66
 [/yinbaitu.com/]211.138.30.66
 [/yinbangbroker.com/]211.138.30.66
@@ -59064,6 +59002,7 @@
 [/yingheying.com/]211.138.30.66
 [/yinghezhong.com/]211.138.30.66
 [/yinghualiu.com/]211.138.30.66
+[/yinghuaonline.com/]211.138.30.66
 [/yinghub.com/]211.138.30.66
 [/yingjia360.com/]211.138.30.66
 [/yingjianzhijia.com/]211.138.30.66
@@ -59655,7 +59594,6 @@
 [/yongdatang.com/]211.138.30.66
 [/yongfan99.com/]211.138.30.66
 [/yonghe2008.com/]211.138.30.66
-[/yonghejinrong.com/]211.138.30.66
 [/yongheng.online/]211.138.30.66
 [/yonghongtech.com/]211.138.30.66
 [/yonghuigj.com/]211.138.30.66
@@ -59999,7 +59937,6 @@
 [/youyizhidao.com/]211.138.30.66
 [/youyo88.com/]211.138.30.66
 [/youyou234.com/]211.138.30.66
-[/youyouii.com/]211.138.30.66
 [/youyouwin.com/]211.138.30.66
 [/youyuan.com/]211.138.30.66
 [/youyuanapp.com/]211.138.30.66
@@ -60021,7 +59958,6 @@
 [/youzhixueyuan.com/]211.138.30.66
 [/youzhuan.com/]211.138.30.66
 [/youzi02.com/]211.138.30.66
-[/youzibank.com/]211.138.30.66
 [/youzibuy.com/]211.138.30.66
 [/youzijie.com/]211.138.30.66
 [/youziku.com/]211.138.30.66
@@ -60105,7 +60041,6 @@
 [/yqxiuyoung.com/]211.138.30.66
 [/yqxs.cc/]211.138.30.66
 [/yqxsge.cc/]211.138.30.66
-[/yqyanhong.com/]211.138.30.66
 [/yqzww.cc/]211.138.30.66
 [/yqzww.la/]211.138.30.66
 [/yqzww.net/]211.138.30.66
@@ -60146,7 +60081,6 @@
 [/ysepay.com/]211.138.30.66
 [/ysext.com/]211.138.30.66
 [/ysfog.com/]211.138.30.66
-[/ysgc.vip/]211.138.30.66
 [/ysgcdns.xyz/]211.138.30.66
 [/ysgfood.com/]211.138.30.66
 [/ysgtg.com/]211.138.30.66
@@ -61200,6 +61134,7 @@
 [/zbqlm.com/]211.138.30.66
 [/zbrushcn.com/]211.138.30.66
 [/zbstatic1.com/]211.138.30.66
+[/zbt.com/]211.138.30.66
 [/zbuhe.com/]211.138.30.66
 [/zbusa.com/]211.138.30.66
 [/zbwbbs.com/]211.138.30.66
@@ -61329,6 +61264,7 @@
 [/zejiexinxi.com/]211.138.30.66
 [/zejiri.net/]211.138.30.66
 [/zeju.com/]211.138.30.66
+[/zeldacn.com/]211.138.30.66
 [/zelinai.com/]211.138.30.66
 [/zemismart.com/]211.138.30.66
 [/zemuo.com/]211.138.30.66
@@ -61427,7 +61363,6 @@
 [/zgdwzp.com/]211.138.30.66
 [/zgdxhbkf.com/]211.138.30.66
 [/zgdydyxh.com/]211.138.30.66
-[/zgfscl.com/]211.138.30.66
 [/zgfwgj.com/]211.138.30.66
 [/zgfxnews.com/]211.138.30.66
 [/zgfznews.com/]211.138.30.66
@@ -61748,6 +61683,7 @@
 [/zhaota8.com/]211.138.30.66
 [/zhaouc.com/]211.138.30.66
 [/zhaouc.net/]211.138.30.66
+[/zhaowenyu.com/]211.138.30.66
 [/zhaowofanyi.com/]211.138.30.66
 [/zhaoxi.org/]211.138.30.66
 [/zhaoxiaoshuo.com/]211.138.30.66
@@ -61817,7 +61753,6 @@
 [/zhengfenduojin.com/]211.138.30.66
 [/zhengguzhishen.com/]211.138.30.66
 [/zhenghangyq.net/]211.138.30.66
-[/zhenghemold.com/]211.138.30.66
 [/zhengjia.com/]211.138.30.66
 [/zhengjiantong.com/]211.138.30.66
 [/zhengjianzhao.com/]211.138.30.66
@@ -61832,6 +61767,7 @@
 [/zhengshuku.com/]211.138.30.66
 [/zhengtaipro.com/]211.138.30.66
 [/zhengtoon.com/]211.138.30.66
+[/zhenguangchem.com/]211.138.30.66
 [/zhenguo.com/]211.138.30.66
 [/zhengwutong.com/]211.138.30.66
 [/zhengxiaoling.com/]211.138.30.66
@@ -62025,7 +61961,6 @@
 [/zhipan.net/]211.138.30.66
 [/zhipeix.com/]211.138.30.66
 [/zhipianbang.com/]211.138.30.66
-[/zhipiaoduixian8.com/]211.138.30.66
 [/zhipin.com/]211.138.30.66
 [/zhipingke.com/]211.138.30.66
 [/zhiqiang.org/]211.138.30.66
@@ -62623,7 +62558,6 @@
 [/zisuo.com/]211.138.30.66
 [/ziti163.com/]211.138.30.66
 [/zitiao.org/]211.138.30.66
-[/zitiaonc.com/]211.138.30.66
 [/zitichina.com/]211.138.30.66
 [/ziticq.com/]211.138.30.66
 [/zitiguanjia.com/]211.138.30.66
@@ -63656,6 +63590,7 @@
 [/zzcomm.com/]211.138.30.66
 [/zzcszx.com/]211.138.30.66
 [/zzd.pub/]211.138.30.66
+[/zzded.com/]211.138.30.66
 [/zzdengji.com/]211.138.30.66
 [/zzdh.net/]211.138.30.66
 [/zzdl.com/]211.138.30.66
