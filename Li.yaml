@@ -2,74 +2,74 @@ mixed-port: 7890
 allow-lan: true
 mode: rule
 log-level: info
-external-controller: 0.0.0.0:9090
+external-controller: 0.0.0.0:9000
 proxies: null
 proxy-groups:
   - name: PROXY
     type: select
     proxies:
-      - BACK
-      - TEST
-      - DIRECT
-      - REJECT
+      - 负载均衡
+      - 延迟最低
     use:
       - ssrsub
-  - name: BACK
-    type: fallback
+  - name: 负载均衡
+    type: load-balance
+    strategy: consistent-hashing
     use:
       - ssrsub
     url: http://www.youtube.com/generate_204
-    interval: 90
-  - name: TEST
+    interval: 1200
+  - name: 延迟最低
     type: url-test
     use:
       - ssrsub
-    url: http://www.youtube.com/generate_204
-    interval: 90
+    url: http://www.gstatic.com/generate_204
+    interval: 1200
+    tolerance: 100
 proxy-providers:
   ssrsub:
     type: http
-    url: https://raw.fastgit.org/ssrsub/ssr/master/Clash.yml
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
     path: ./proxy/ssrsub.yaml
     health-check:
       enable: true
-      interval: 90
-      url: http://www.youtube.com/generate_204
+      interval: 1200
+      url: http://www.gstatic.com/generate_204
 rule-providers:
   reject:
     type: http
     behavior: domain
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/reject.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
   private:
     type: http
     behavior: domain
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/private.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
     path: ./ruleset/private.yaml
   gfw:
     type: http
     behavior: domain
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/gfw.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
     path: ./ruleset/gfw.yaml
   greatfire:
     type: http
     behavior: domain
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/greatfire.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt"
     path: ./ruleset/greatfire.yaml
   tld-not-cn:
     type: http
     behavior: domain
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/tld-not-cn.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
     path: ./ruleset/tld-not-cn.yaml
   telegramcidr:
     type: http
     behavior: ipcidr
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/telegramcidr.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
     path: ./ruleset/telegramcidr.yaml
   applications:
     type: http
     behavior: classical
-    url: "https://raw.fastgit.org/Loyalsoldier/clash-rules/release/applications.txt"
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
     path: ./ruleset/applications.yaml
 rules:
   - RULE-SET,applications,DIRECT
@@ -80,5 +80,5 @@ rules:
   - RULE-SET,tld-not-cn,PROXY
   - RULE-SET,gfw,PROXY
   - RULE-SET,greatfire,PROXY
-  - RULE-SET,telegramcidr,PROXY
+  - RULE-SET,telegramcidr,PROXY,no-resolve
   - MATCH,DIRECT
